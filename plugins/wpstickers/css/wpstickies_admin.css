@@ -1,0 +1,196 @@
+#footer {
+	display: none;
+}
+.form-table a {
+	text-decoration: none !important;
+}
+
+.wpstickies_general_table input.selector {
+	width: 100% !important;
+}
+
+.wpstickies-pending-table, .wpstickies-latest-table {
+	width: 100%;
+}
+
+.wpstickies-pending-table, .wpstickies-latest-table {
+	border-collapse:collapse;
+}
+
+.wpstickies-pending-table th, .wpstickies-latest-table th {
+	height: 16px !important;
+	padding: 5px;
+	border: 1px solid #dcdcdc;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.wpstickies-pending-table td, .wpstickies-latest-table td {
+	height: 38px;
+	padding: 5px;
+	border: 1px solid #dcdcdc;
+	font: normal normal normal 13px/13px Arial, serif;
+	color: #666;
+	vertical-align: middle;
+}
+
+.wpstickies-pending-table td a, .wpstickies-latest-table td a {
+	color: #999;
+}
+
+
+.wpstickies-pending-table .image, .wpstickies-latest-table .image {
+	width: 50px;
+	text-align: center;
+	padding: 2px;
+}
+
+.wpstickies-pending-table .image img, .wpstickies-latest-table .image img {
+	width: 40px;
+	height: 40px;
+}
+
+.wpstickies-pending-table .title, .wpstickies-latest-table .title {
+	width: 140px;
+}
+
+.wpstickies-pending-table .content, .wpstickies-latest-table .content {
+	width: 310px;
+	text-align: justify;
+}
+
+.wpstickies-pending-table .user, .wpstickies-latest-table .user {
+	width: 130px;
+	text-align: center;
+}
+
+.wpstickies-pending-table .created, .wpstickies-latest-table .modified {
+	width: 140px;
+	text-align: center;
+}
+
+.wpstickies-pending-table .actions, .wpstickies-latest-table .actions {
+	width: 50px;
+}
+
+
+.wpstickies-pending-table .action {
+	width: 25px;
+	text-align: center;
+}
+
+.wpstickies-latest-table .action {
+	width: 50px;
+	text-align: center;
+}
+
+.wpstickies-pending-table .action .accept {
+	width: 16px;
+	height: 16px;
+	display: block;
+	margin: 0px auto;
+	background-image: url('../img/accept.png');
+}
+
+.wpstickies-pending-table .action .reject {
+	width: 16px;
+	height: 16px;
+	display: block;
+	margin: 0px auto;
+	background-image: url('../img/reject.png');
+}
+
+.wpstickies-latest-table .remove {
+	width: 16px;
+	height: 16px;
+	display: block;
+	margin: 0px auto;
+	background-image: url('../img/remove.png');
+}
+
+.wpstickies-latest-table .restore {
+	width: 16px;
+	height: 16px;
+	display: block;
+	margin: 0px auto;
+	background-image: url('../img/restore.png');
+}
+
+
+.wpstickies_appearance_table {
+	width: 580px;
+}
+
+.wpstickies_appearance_table th, .wpstickies_appearance_table td {
+	padding: 0px;
+}
+
+.wpstickies_appearance_table th {
+	font-weight: bold !important;
+}
+
+.wpstickies_appearance_table .type {
+	width: 170px;
+	padding-right: 30px !important;
+	font-weight: bold !important;
+}
+
+.wpstickies_appearance_table .direction {
+	width: 100px;
+	text-align: center;
+}
+
+.wpstickies_appearance_table .easing {
+	width: 150px;
+	text-align: center;
+}
+
+.wpstickies_appearance_table .duration {
+	width: 120px;
+	text-align: center;
+}
+
+.wpstickies_appearance_table .duration input {
+	width: 70px;
+}
+
+.wpstickies_delay {
+	width: 70px;
+}
+
+label {
+	margin-right: 10px;
+}
+
+#wpstickies_create_custom_roles {
+	position: relative;
+}
+#wpstickies_create_custom_roles .tagsinput {
+	position: absolute;
+	top: 75px;
+	left: 100px;
+	height: 40px !important;
+}
+
+#wpstickies_modify_custom_roles  {
+	position: relative;
+}
+
+#wpstickies_modify_custom_roles .tagsinput {
+	position: absolute;
+	top: 54px;
+	left: 100px;
+	height: 40px !important;
+}
+
+.wpstickies_lang_table input {
+	width: 100%;
+}
+
+.wpstickies_general_table .selector {
+	width: 100%;
+}
+
+.wpstickies-pending-table img, .wpstickies-latest-table img {
+	width: 200px;
+}

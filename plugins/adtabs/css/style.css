@@ -1,0 +1,149 @@
+@CHARSET "ISO-8859-1";
+
+.list
+{
+
+}
+
+.list table th,
+.list table td
+{
+text-align:left;
+
+}
+.list table th
+{
+border-bottom:1px solid #ddd;
+border-top:1px solid #ddd;
+padding:5px 7px;
+}
+
+
+.list table td
+{
+border-bottom:1px solid #ddd;
+padding:15px 7px;
+}
+
+
+
+.list table .even
+{
+background:#f7f8f9;
+}
+
+.list table .odd
+{
+background:#fff;
+}
+
+.list tbody tr:hover
+{
+background:#f1f2f2;
+
+}
+
+
+
+ul.tabs {border-bottom:1px solid #ccc; float: left; margin: 0; padding: 0; width: 100%;}
+	ul.tabs li:first-child { margin-left:15px; }
+	ul.tabs li { list-style-type:none; float:left; cursor:pointer; padding:7px 20px; margin:0;}
+	ul.tabs li.active { border:1px solid #ccc; border-bottom:hidden; background:#fff; z-index:9999; margin-bottom:-1px; } 
+	.hide{display:none;}
+	.panel img{	}
+	
+#wpcontent #content
+{
+margin:0;
+}
+
+.row-fluid.aged-inventory .span2
+{
+width:12%;
+}
+
+.visit-tex 
+{
+min-height:600px;
+}
+
+.visit-tex  .span2
+{
+
+}
+
+#wpcontent .brand-logout a{
+	margin-left:10px;
+}
+
+.admin-cat .widget-stats
+{
+height:108px;
+}
+
+.admin-cat .widget-stats .txt
+{
+display:block;
+}
+.admin-cat .span2 p
+{
+text-align:center;
+}
+
+
+
+.form-inline.heading .pull-right{
+	margin-top: 10px;
+}
+
+.single-order-detail td img
+{
+float:left;
+margin-right:20px;
+}
+
+.single-order-detail .item p
+{
+margin-top:20px;
+float:left;
+color:#2222cc;
+font-weight:bold;
+}
+
+.order-details hr {
+    border-top-color: #EEEEEE;
+	}
+.order-details p.status
+{
+color:#ff0000;
+}
+.update-products h3{
+    background: #444;
+    color: #fff;
+    display: block;
+    line-height: 30px;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+.update-products{
+
+}
+
+.update-products-form form .button{
+    background: #d9197e;
+    border: none;
+    color: #fff;
+
+}
+.update-products-form form .button:hover {
+    background: #d9197e;
+    border: none;
+    color: #fff;
+}
+.update-products-form{
+
+}
+
+.upload-csv{
+
+}

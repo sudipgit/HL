@@ -1,0 +1,192 @@
+/* LayerSlider 456Shop Skin */
+
+
+
+.ls-456shop {
+	-moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	padding: 2px;
+	background: white;
+}
+
+.ls-456shop .ls-playvideo {
+	width: 50px;
+	height: 50px;
+	margin-left: -25px;
+	margin-top: -25px;
+}
+
+.ls-456shop .ls-playvideo,
+.ls-456shop .ls-nav-sides,
+.ls-456shop .ls-bottom-slidebuttons a{
+	background-image: url(skin.png);	
+}
+.ls-456shop .ls-nav-prev,
+.ls-456shop .ls-nav-next,
+.ls-456shop .ls-nav-start,
+.ls-456shop .ls-nav-stop{
+	background-image: url(ls-456shop.png);	
+}
+
+.ls-456shop .ls-playvideo {
+	background-position: -300px -150px;
+}
+
+.ls-456shop .ls-playvideo:hover,
+.ls-456shop .ls-vpcontainer:hover .ls-playvideo {
+	background-position: -375px -150px;
+}
+
+.ls-456shop .ls-nav-prev {
+	background-position: 0px 0px;
+}
+
+.ls-456shop .ls-nav-prev:hover {
+	background-position: 0px -30px;
+}
+
+.ls-456shop .ls-nav-next {
+	background-position: -30px 0px;
+}
+
+.ls-456shop .ls-nav-next:hover {
+	background-position: -30px -30px;
+}
+
+.ls-456shop .ls-nav-start {
+	background-position: 0px -70px;
+}
+
+.ls-456shop .ls-nav-start:hover,
+.ls-456shop .ls-nav-start-active {
+	background-position: 0px -90px;
+}
+
+.ls-456shop .ls-nav-stop {
+	background-position: -25px -70px;
+}
+
+.ls-456shop .ls-nav-stop:hover,
+.ls-456shop .ls-nav-stop-active {
+	background-position: -25px -90px;
+}
+
+.ls-456shop .ls-bottom-slidebuttons a {
+	background-position: 0px -150px;
+    opacity: .7;
+    filter: alpha(opacity=70);
+}
+
+.ls-456shop .ls-bottom-slidebuttons a.ls-nav-active,
+.ls-456shop .ls-bottom-slidebuttons a:hover {
+	background-position: -75px -150px;
+    opacity: .9;
+    filter: alpha(opacity=90);
+}
+
+.ls-456shop .ls-nav-sideleft {
+	background-position: -150px -150px;	
+}
+
+.ls-456shop .ls-nav-sideright {
+	background-position: -225px -150px;	
+}
+
+
+
+.ls-456shop .ls-nav-prev,
+.ls-456shop .ls-nav-next {
+	width: 30px;
+	height: 30px;
+	z-index: 10000;
+	top: 50%;
+	margin-top: -15px;	
+	position: absolute;
+}
+
+.ls-456shop .ls-nav-prev {
+	left: 20px;	
+}
+
+.ls-456shop .ls-nav-next {
+	right: 20px;	
+}
+
+
+
+.ls-456shop .ls-bottom-slidebuttons,
+.ls-456shop .ls-bottom-slidebuttons a,
+.ls-456shop .ls-nav-start,
+.ls-456shop .ls-nav-stop,
+.ls-456shop .ls-nav-sides {
+	height: 20px;
+}
+
+.ls-456shop .ls-bottom-slidebuttons,
+.ls-456shop .ls-bottom-slidebuttons a,
+.ls-456shop .ls-nav-start,
+.ls-456shop .ls-nav-stop,
+.ls-456shop .ls-nav-sides {
+	display: inline-block;
+}
+
+.ls-456shop .ls-bottom-slidebuttons,
+.ls-456shop .ls-nav-start,
+.ls-456shop .ls-nav-stop,
+.ls-456shop .ls-nav-sides {
+	top: -30px;
+}
+
+.ls-456shop .ls-nav-start,
+.ls-456shop .ls-nav-stop {
+	width: 25px;
+}
+
+.ls-456shop .ls-bottom-slidebuttons a {
+	width: 20px;
+}
+
+.ls-456shop .ls-nav-sides {
+	width: 0px;	
+}
+
+
+
+.ls-456shop .ls-thumbnail-hover {
+	bottom: 30px;
+	padding: 2px;
+	margin-left: 1px;
+}
+
+.ls-456shop .ls-thumbnail-hover-bg {
+	background: white;
+	-moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.ls-456shop .ls-thumbnail-hover span {
+	border: 5px solid white;
+	margin-left: -5px;
+}
+
+
+
+.ls-456shop .ls-thumbnail {
+	top: 10px;
+}
+
+.ls-456shop .ls-thumbnail-inner {
+	padding: 2px;
+	margin-left: -2px;
+	background: #fff;
+}
+
+.ls-456shop .ls-thumbnail-slide a {
+	margin-right: 2px;
+}
+
+.ls-456shop .ls-nothumb {
+	background: #eee;
+}

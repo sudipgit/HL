@@ -1,0 +1,14 @@
+[10-Dec-2014 17:11:56] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[11-Dec-2014 00:24:54] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[21-Dec-2014 07:32:33] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[31-Dec-2014 05:59:54] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[06-Jan-2015 07:36:18] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[07-Jan-2015 23:10:57] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[20-Mar-2015 21:05:02] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[24-Aug-2015 18:17:30] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[09-Sep-2015 17:35:21] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[25-Sep-2015 11:19:14] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[13-Mar-2016 08:50:56] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/jtd-anything-slider.php on line 13
+[13-Mar-2016 08:50:57] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[10-Apr-2016 05:23:10] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7
+[22-Mar-2017 18:34:33] PHP Fatal error:  Call to undefined function  add_action() in /home1/mytempo/public_html/hairlibrary.com/wp-content/plugins/anythingslider-for-wordpress/insert.php on line 7

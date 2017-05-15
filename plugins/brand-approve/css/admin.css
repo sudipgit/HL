@@ -1,0 +1,109 @@
+@CHARSET "ISO-8859-1";
+
+.list
+{
+
+}
+
+.list table th,
+.list table td
+{
+text-align:left;
+
+}
+.list table th
+{
+border-bottom:1px solid #ddd;
+border-top:1px solid #ddd;
+padding:5px 7px;
+}
+
+
+.list table td
+{
+border-bottom:1px solid #ddd;
+padding:15px 7px;
+}
+
+.list table .even
+{
+background:#f7f8f9;
+}
+
+.list table .odd
+{
+background:#fff;
+}
+
+.list tbody tr:hover
+{
+background:#f1f2f2;
+
+}
+
+.brand-details
+{
+  padding:20px 30px;
+
+}
+
+.brand-details p
+{
+float: left;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+
+}
+.brand-details p.large
+{
+font-weight:bold;
+font-size:14px;
+}
+.brand-details p label
+{
+ float:left;
+ width:120px;
+ text-align:right;
+ margin-right:10px;
+}
+
+.brand-details p span
+{
+float:left;
+width:700px;
+
+
+}
+.brand-details h3
+{
+
+border-bottom:1px solid #ddd;
+}
+
+.brand-details .submit-button p span
+{
+color:blue;
+float:none;
+width:150px;
+}
+
+.brand-details  .submit-button
+{
+padding:10px 50px;
+
+}
+
+.brand-details  .submit-button  input[type="text"],
+.brand-details  .submit-button  input[type="password"]
+{
+
+width:200px;
+height:30px;
+}
+.brand-details  .submit-button  input[type="submit"]
+{
+padding:5px 15px;
+background:green;
+border:none;
+}
