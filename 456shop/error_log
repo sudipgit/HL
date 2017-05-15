@@ -1,0 +1,76 @@
+[11-Apr-2014 13:31:26] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 13
+[11-Apr-2014 13:59:52] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 13
+[11-Apr-2014 14:25:32] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:30:14] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:33:16] PHP Fatal error:  Call to undefined function  savelike() in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 4
+[11-Apr-2014 14:44:30] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:44:41] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:44:44] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:44:44] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:44:44] PHP Fatal error:  Call to a member function insert() on a non-object in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions/ajax.php on line 15
+[11-Apr-2014 14:46:50] PHP Warning:  require(../../../../wp-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 2
+[11-Apr-2014 14:46:50] PHP Warning:  require(../../../../wp-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 2
+[11-Apr-2014 14:46:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../../../wp-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/savelike.php on line 2
+[12-Apr-2014 09:16:56] PHP Warning:  require_once(TEMPLATEPATH/functions/grayscale.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions.php on line 273
+[12-Apr-2014 09:16:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TEMPLATEPATH/functions/grayscale.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions.php on line 273
+[12-Apr-2014 09:19:45] PHP Warning:  require_once(TEMPLATEPATH/functions/grayscale.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions.php on line 273
+[12-Apr-2014 09:19:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TEMPLATEPATH/functions/grayscale.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/mytempo/public_html/myhypehair.com/morgandemo/wp-content/themes/456shop/functions.php on line 273
+[18-Jun-2014 22:32:04] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-hair-type.php on line 6
+[13-Aug-2014 02:46:19] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/index.php on line 1
+[13-Aug-2014 02:54:30] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/index.php on line 1
+[15-Dec-2014 09:19:27] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/index.php on line 1
+[23-Dec-2014 10:07:51] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[25-Dec-2014 15:49:14] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[26-Dec-2014 11:26:31] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[26-Dec-2014 21:23:08] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[28-Dec-2014 04:19:23] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[29-Dec-2014 10:01:08] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[29-Dec-2014 10:01:11] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[30-Dec-2014 08:30:21] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[31-Dec-2014 05:59:54] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[04-Jan-2015 12:36:46] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[04-Jan-2015 12:36:48] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[04-Jan-2015 22:22:54] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[04-Jan-2015 22:22:54] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[06-Jan-2015 18:22:22] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[12-Mar-2015 11:06:14] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[20-Mar-2015 21:05:01] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[20-Mar-2015 21:05:02] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[20-Mar-2015 21:05:04] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[25-Mar-2015 14:46:31] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/index.php on line 1
+[24-Aug-2015 18:17:29] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[24-Aug-2015 18:17:29] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[24-Aug-2015 18:17:32] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[09-Sep-2015 17:35:20] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[09-Sep-2015 17:35:20] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[09-Sep-2015 17:35:22] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[25-Sep-2015 11:19:13] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[25-Sep-2015 11:19:13] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[25-Sep-2015 11:19:16] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[10-Dec-2015 15:48:59] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/index.php on line 1
+[01-Mar-2016 00:44:06] PHP Fatal error:  Call to undefined function  get_option() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/header.php on line 201
+[01-Mar-2016 00:44:06] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[01-Mar-2016 00:44:06] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/footer.php on line 18
+[01-Mar-2016 00:44:10] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[13-Mar-2016 01:52:46] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[13-Mar-2016 01:52:46] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/footer.php on line 18
+[10-Apr-2016 05:22:53] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[10-Apr-2016 05:23:00] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[10-Apr-2016 05:23:12] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[22-May-2016 15:54:25] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[16-Jun-2016 00:20:08] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[07-Jul-2016 19:38:08] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[26-Jul-2016 05:06:00] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[03-Aug-2016 00:59:23] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[03-Aug-2016 06:31:14] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[03-Aug-2016 08:20:57] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[05-Aug-2016 19:50:55] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[07-Aug-2016 09:48:03] PHP Fatal error:  Call to undefined function  get_option() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/header.php on line 201
+[07-Aug-2016 09:48:04] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/footer.php on line 18
+[10-Aug-2016 15:48:51] PHP Fatal error:  Call to undefined function  add_theme_support() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/functions.php on line 3
+[17-Mar-2017 19:23:41] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[22-Mar-2017 18:34:32] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-front-blog-mini.php on line 6
+[22-Mar-2017 18:34:33] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/template-trending-product.php on line 11
+[22-Mar-2017 18:34:35] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/taxonomy-portfolio_tags.php on line 1
+[23-Mar-2017 17:07:53] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1
+[22-Apr-2017 06:15:58] PHP Fatal error:  Call to undefined function  get_header() in /home1/mytempo/public_html/hairlibrary.com/wp-content/themes/456shop/404.php on line 1

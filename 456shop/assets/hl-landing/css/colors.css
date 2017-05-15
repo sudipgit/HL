@@ -1,0 +1,1121 @@
+/* 
+    Document   : colors
+    Author     : Little Neko
+    Description: template colors
+    */
+
+
+/* COLORS : 93816E
+
+/* Table of Content
+==================================================
+
+#BOOSTRAP CUSTOMIZATION
+#TYPOGRAPHY
+#PARALLAX STUFF
+#LINKS AND BUTTONS
+#MAIN MENU 
+#FOOTER 
+#SLIDERS
+#BLOG
+#PORTFOLIO
+#MISCELANIOUS
+
+/* BOOSTRAP CUSTOMIZATION
+================================================== */
+
+/** tabs and accordion**/
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus {
+	background:#fff;
+	color:#333;
+}
+
+.nav-tabs > li > a {
+	border:1px solid #fff;
+	color:#fff;
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+	background: #3d3d3d;
+	border-color: #3d3d3d;
+	color: #FFF;
+}
+
+}
+.panel-default {
+	box-shadow:none;
+}
+
+.panel-default>.panel-heading {
+	background:#444;
+	border-top:none;
+	color:#fff;
+}
+
+.panel-default>.panel-heading:hover a {
+	background:#3d3d3d;
+}
+
+.panel-default>.panel-heading:hover a,
+.panel-default>.panel-heading:hover a:after {
+	color:#fff;
+}
+
+.panel-title>a {
+	color:#fff;
+}
+
+.panel-title>a:hover {
+	text-decoration: none;
+}
+
+.panel-body {
+	background:#333;
+}
+
+/*** pagination ***/
+
+.pagination>li>a,
+.pagination>li>span {
+	border:none;
+	color: #555;
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+	background: #3d3d3d ;
+}
+
+.pagination>li>a:hover,
+.pagination>li>span:hover,
+.pagination>li>a:focus,
+.pagination>li>span:focus { 
+	background: none repeat scroll 0 0 #3d3d3d;
+	border:none;
+	color:#fff;
+}
+
+.pager li>a:hover,
+.pager li>a:focus {
+	background:#3d3d3d;
+	color:#fff;
+	border-color:#3d3d3d;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background:#3d3d3d;
+}
+
+.progress {background:#eee;}
+
+.progress-bar {background-color:#3d3d3d;}
+
+.progress-bar-success {background-color: #5BB75B;}
+
+.progress-bar-info {background-color: #49AFCD;}
+
+.progress-bar-warning {background-color: #FAA732;}
+
+.progress-bar-danger {background-color: #DA4F49;}
+
+.skillNum {background:#333;}
+
+.skillNum:after {
+	border-color: transparent;
+	border-top-color: #333;
+}
+
+/*** alerts ***/
+.alert {
+	color:#fff;
+	border:none;
+}
+
+.alert-success {background-color: #5BB75B;}
+
+.alert-info {background-color: #49AFCD;}
+
+.alert-warning {background-color: #FAA732;}
+
+.alert-danger {background-color: #DA4F49;}
+
+/*** tooltip ***/
+
+.tooltip-inner {
+	background:#fff;
+	color:#333;
+}
+
+.tooltip.top .tooltip-arrow {border-top-color:#fff}
+
+.tooltip.left .tooltip-arrow {border-left-color:#fff}
+
+.tooltip.bottom .tooltip-arrow {border-bottom-color:#fff}
+
+.tooltip.right .tooltip-arrow {border-right-color:#fff}
+
+.tooltip.in {
+	opacity:1;
+	filter:alpha(opacity=100)
+}
+
+/*** end tooltip ***/
+
+.jumbotron {
+	background:#3d3d3d;
+	color:#fff;
+}
+
+.jumbotron h1,
+.jumbotron h2,
+.jumbotron h3,
+.jumbotron h4,
+.jumbotron p
+{
+	color:#fff;
+}
+
+/* END BOOSTRAP CUSTOMIZATION
+================================================== */
+
+/* TYPOGRAPHY
+================================================== */
+
+body, section {
+	/* background color set on sections for supersized version */
+	color:#141414;
+	background-color: #fff;
+
+}
+
+/* remove background color on section when it's not needed */
+
+section.fullscreenSection,
+section.superSizedSection,
+section.owl-carousel,
+section#mainFooter,
+section#parallaxForm {
+	background-color:transparent;
+}
+
+blockquote small {
+	color:inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color:#444;
+}
+
+
+h1.arrow, h2 strong {
+	color:#555;
+}
+
+h1.arrow:after {
+	background-color: #93816E;
+}
+
+h2 i {
+	color:#999;
+}
+
+.paralaxText .iconRounded {
+	border-color: #fff;
+}
+
+.paralaxText .iconRounded:hover {
+	border-color: #fff;
+	background:none;
+}
+
+.paralaxText .quote {
+	background: #fff;
+}
+
+
+/* END TYPOGRAPHY
+================================================== */
+
+/* PARALLAX STUFF
+================================================== */
+#paralaxSlice1,
+#paralaxSlice2,
+#paralaxSlice3,
+#paralaxSlice4 {
+	background-color:#3d3d3d;
+}
+
+.paralaxText blockquote,
+.paralaxText h1,
+.paralaxText h2,
+.paralaxText h2 small,
+.paralaxText h3,
+.paralaxText p,
+.paralaxText i,
+.paralaxText address,
+.paralaxText button {
+	color:#fff;
+}
+
+.paralaxText .quote blockquote,
+.paralaxText .quote h1,
+.paralaxText .quote h2,
+.paralaxText .quote h2 small,
+.paralaxText .quote h3,
+.paralaxText .quote p,
+.paralaxText .quote i {
+	color:#333;
+}
+
+.paralaxText label i {
+	color:#eee;
+}
+
+/* END PARALLAX STUFF
+================================================== */
+
+/* LINKS AND BUTTONS
+================================================== */
+
+a {
+	color:#3d3d3d !important;
+}
+.text-white {
+	color:#fff !important;
+}
+.boxContent p.location{
+color:#333 !important;
+}
+a:hover,
+.scrollspyNav .active a {
+	color:#3d3d3d;
+}
+
+ul.iconsList li a {
+	color:#555;
+}
+
+ul.iconsList li a:hover,
+ul.iconsList i {
+	color:#3d3d3d;
+}
+
+/*** buttons ***/
+.btn {
+	background: none;
+	color: #121212;
+	border: 2px solid #93816E;
+}
+
+.btn:hover {
+	background: #93816E;
+	border-color:#93816E;
+	color: #fff;
+}
+
+
+.btn-primary {
+	background: #93816E;
+	border-color:#93816E;
+	color: #fff;
+}
+
+.btn-primary:hover {
+	color: #93816E;
+	background: #fff;
+}
+
+.btn-primary:after{
+	background:#3d3d3d;
+}
+
+.btn-info {
+	background: #49AFCD;
+	color: #FFFFFF;
+}
+
+.btn-success {
+	background: #5BB75B;
+	color: #FFFFFF;
+}
+
+.btn-warning {
+	background: #FAA732;
+	color: #FFFFFF;
+}
+
+.btn-danger {
+	background: #DA4F49;
+	color: #FFFFFF!important;
+}
+
+.btn-link,
+.btn-link:active,
+.btn-link[disabled],
+.btn-link:hover {
+	background:none;
+	border:none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow:none;
+	box-shadow: none;
+	color:#49AFCD;
+}
+
+/* END LINKS AND BUTTONS
+================================================== */
+
+/* MAIN MENU 
+================================================== */
+
+#mainHeader{
+	border-bottom: 1px solid rgba(0, 0, 0, 0.075);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+	background:#000;
+}
+
+#mainHeader .navbar-inner {
+	background: #444;
+	filter:none !important;
+}
+
+#mainMenu .navbar-nav li:last-child,
+#mainMenu .navbar-nav li:last-child a {
+	border-bottom:none !important;
+}
+
+.navbar-nav > li > a > i,
+.navbar-default .navbar-nav > li > a {
+	color:#fff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+#resMainMenu li.active>a {
+	color:#93816E;
+	background:none;
+}
+
+.navbar-default .navbar-nav > li > a.active {
+	color:#3d3d3d;
+}
+
+.navbar-nav ul li a {
+	color:#999;
+}
+
+.navbar-nav li.hover>a,
+.navbar-nav ul li a:hover {
+	color:#3d3d3d;
+}
+
+.navbar-nav ul li.hover>a {
+	color:#fff;
+}
+
+/*** MEDIA QUERIES ***/
+
+@media(max-width:767px){}
+
+@media(min-width:768px){
+	
+	/* normal header (no class on body) */
+	.navbar-nav ul {
+		background:#333;
+	}
+	.navbar-nav ul li a:hover,
+	.navbar-nav ul li.hover>a {
+		background:#3d3d3d;
+		color:#fff;
+	}
+
+	#mainMenu .navbar-nav li {
+		border-bottom:none;
+	}
+	#mainMenu .navbar-nav ul li a {
+		border-bottom:1px solid #444;
+	}
+	
+}
+
+@media(min-width:992px){}
+
+@media(min-width:1200px){}
+
+/*** END MEDIA QUERIES ***/
+
+
+
+/* END MAIN MENU 
+================================================== */
+
+
+/* FOOTER 
+================================================== */
+
+footer,
+footer section#mainFooter {
+	color:#777;
+	background:#121212;
+}
+
+footer h1,
+footer h2,
+footer h3,
+footer h4
+{
+	color:#777;
+}
+
+#footerRights {
+	background-color:#181818;
+	color:#fff;
+}
+
+#footerRights a{
+	color:#fff;
+}
+
+/* END FOOTER 
+================================================== */
+
+/* SLIDERS
+================================================== */
+/* slider, fullscreen image and fullscreen video text*/
+.fsCaption,
+.fsCaption h1,
+.fsCaption h2 {
+	color:#fff;
+	text-shadow: 5px 5px 1px rgba(0, 0, 0, 0.49);
+	background:none;
+}
+
+.fsCaption .owl-carousel .item:after {
+	background: #fff 
+}
+
+/*** supersized ***/
+#nextslide,
+#prevslide {
+	background:#3d3d3d;
+	-webkit-transition: all 0.4s ease-out;
+	-moz-transition: all 0.4s ease-out;
+	-o-transition: all 0.4s ease-out;
+	-ms-transition: all 0.4s ease-out;
+	transition: all 0.4s ease-out;
+}
+
+#nextslide:before,
+#prevslide:before,
+#slidecaption a.btn {
+	color:#fff;
+	border-color:white;
+}
+
+/*** OWL Carousel ***/
+
+.owl-theme .owl-controls .owl-buttons div {
+	background:none;
+	border:1px solid #121212;
+	color:#121212;
+	-webkit-transition: all 0.4s ease-out;
+	-moz-transition: all 0.4s ease-out;
+	-o-transition: all 0.4s ease-out;
+	-ms-transition: all 0.4s ease-out;
+	transition: all 0.4s ease-out;
+}
+
+.owl-theme .owl-controls .owl-buttons div:hover {
+	background-color:#3d3d3d;
+	border-color:#3d3d3d;
+}
+
+
+.owl-theme .owl-controls .owl-page span.owl-numbers,
+.owl-theme .owl-controls .owl-page.active span.owl-numbers {
+	background:#3d3d3d;
+	color:#fff;
+	border:none;
+	border-radius: 0
+}
+
+.owlCaption {
+	color:#333;
+	background:rgba(255, 255, 255, 0.5);
+}
+
+
+/* END SLIDERS
+================================================== */
+
+/* BLOG
+================================================== */
+
+.post h2 a {
+	color:#555;
+}
+
+.post h2 a:hover {
+	color:#3d3d3d;
+}
+
+.tagCloud a:link,
+.tagCloud a:visited {
+	border:1px solid #eee;
+}
+
+.tagcloud a:hover {
+	background-color: #3d3d3d ;
+	color: #FFF;
+}
+
+p.credits {
+	color:#555;
+	background:#eee;
+}
+
+p.credits a {
+	color:#3d3d3d;
+}
+
+.search .btn {
+	border: none;
+}
+
+.search .btn:hover i {
+	color:#fff!important;
+}
+.search .btn:focus {
+	outline:none;
+}
+
+.entry-meta {
+	color:#333;
+}
+
+.entry-meta a {
+	color:#fff;
+}
+
+.entry-meta a:hover {
+	color:#333;
+}
+
+/* END BLOG
+================================================== */
+
+/* PORTFOLIO
+================================================== */
+section#homePortfolio {
+	background:none;
+}
+nav#filter a {
+	border:1px solid #ddd;
+	color:#555;
+}
+
+nav#filter a:hover,
+nav#filter a.current {
+	background-color: #3d3d3d ;
+	color:#fff;
+	border-color:#3d3d3d;
+}
+
+li.filterTitle {
+	color:#4F6266;
+}
+
+section#projectDescription {
+	background-color:#F8F8F8
+}
+
+.mfp-bg {
+	background-color: #111;
+}
+
+.boxLink {
+	background:#3d3d3d;
+	color:#fff;
+	text-align:center;
+	position:relative;
+}
+
+.boxLink h2 {color:#fff;}
+
+.iconLinks a:hover i,
+.pinInfo li a:hover {
+	text-shadow: 0 0 5px #FFF;
+}
+
+.imgHover.neko-hover-1 figcaption,
+.imgHover.neko-hover-2 figcaption {
+	background: rgba(0,0,0,0.0);
+	color: #fff;
+}
+
+.neko-hover-3 figure {
+	background: black;
+}
+.neko-hover-3 figure h2{
+	color:white;
+}  
+
+.imgHover figcaption h3,
+.imgHover figcaption p {
+	color: #fff;
+}
+
+.neko-hover-1 figcaption .iconLinks a i {
+	color:white;
+}
+
+.neko-hover-2 figcaption a {
+	color:#fff;
+	text-decoration: none;
+}
+
+.neko-hover-2 figcaption a:hover {
+	color:#93816E;
+	text-decoration: none;
+}
+
+/* END PORTFOLIO
+================================================== */
+
+/* MISCELANIOUS
+================================================== */
+/* Preloader one page */
+#preloader {
+	background-color:#fff; /* change if the mask should have another color than white */	
+
+}
+
+#status {
+	background : url(../images/theme-pics/loading.gif) no-repeat bottom center;
+}
+
+/*** Scroll up Button ***/
+#nekoToTop{
+	color:#3d3d3d;
+	background:#fff;
+	border:1px solid rgba(0, 0, 0, 0.15);
+}
+
+#nekoToTop:hover{
+	color:#fff;
+	background:#3d3d3d;	
+}
+
+/** focus color ***/
+::-moz-selection {
+	background: #3d3d3d;
+	color: #fff;
+	text-shadow: none;
+}
+
+::selection {
+	background: #3d3d3d;
+	color: #fff;
+	text-shadow: none;
+}
+
+/*** hover images ***/
+.mask {
+	background:#3d3d3d;
+}
+
+.hoverInfo a i{
+	color:#fff;
+}
+
+.hoverInfo a i.iconRounded {
+	border-color: #fff;
+}
+
+.hoverInfo a:hover span {
+	color:#3d3d3d;
+}
+
+.hoverInfo a:hover i.iconRounded {
+	border-color: #3d3d3d;
+}
+
+/*** pricing table ***/
+.pricingBloc {
+	background:#444;
+}
+
+.pricingBloc ul li {
+	color:#999!important;
+}
+
+.pricingBloc ul li:nth-child(odd) {
+	background-color:#333;
+}
+
+.pricingBloc ul li:last-child {
+	border-bottom:none;
+}
+
+.pricingBloc h2 {
+	background-color:#fff;
+	color:#888!important;
+}
+
+.pricingBloc h3 {
+	color:#777;
+}
+
+.pricingBloc p {
+	color:#444!important;
+}
+
+.pricingBloc .btn {
+	color:#fff;
+}
+
+.pricingBloc .btn.btn-primary:hover{
+	color:#93816E;
+}
+
+.pricingBloc.focusPlan {
+	margin-top:0;
+	border-color:#D1D1D1;
+}
+
+.pricingBloc.focusPlan h2{
+	color:#fff!important;
+	border-bottom:none;
+	background:#93816E;
+}
+
+.pricingBloc.focusPlan h3 {
+	background-color:#3d3d3d ;
+	color:#fff!important;
+}
+
+/*** Form ***/
+.form-control:focus{
+	border: 2px solid #555;
+	background-color:#fff;
+	box-shadow:none;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+}
+
+.form-control {
+	color: #444;
+	border: 2px solid #f7f7f7;
+	background-color:#f7f7f7;
+}
+
+label {
+	color:#777;
+}
+
+.error {
+	color: #B94A48;
+	background-color: #F2DEDE;
+	border-color: #EED3D7;
+}
+
+label.error {
+	color:#fff;
+	background-color: #B94A48;
+	border:none
+}
+
+
+/* pop up */
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+	color:#3d3d3d;
+}
+
+/* END MISCELANIOUS
+================================================== */
+
+/* NEKO CSS FRAMEWORK
+================================================== */
+/* icons */
+i:hover, .boxIcon a:hover i {
+	color:#fff;
+}
+
+/*portoflio*/
+a.pItemLink i {
+	color:#fff;
+}
+
+a.pItemLink:hover i {
+	text-shadow: 0 0 5px #FFF;
+	color:#fff;
+}
+
+
+
+.boxContent {
+	
+}
+
+.boxContent:not(.white) h2,
+.boxContent:not(.white) h3 {
+	color:#333;
+}
+
+.boxContent p {
+	color:#ccc;
+}
+
+/*** Feature box ***/
+.featureBox .boxContent{
+	background:none;
+	border:none;
+} 
+.boxContent.white {
+	background:#fff;
+}
+
+/*** Focus box **/
+
+.boxFocus {background:#222;}
+.boxFocus h2,
+.boxFocus h3,
+.boxFocus h4,
+.boxFocus p,
+.boxFocus i {
+	color:#fff
+}
+
+/*** Icon box **/
+
+.boxIcon a p {
+	color:#777;
+}
+.boxIcon a:hover h2,
+.boxIcon a:hover p {
+	color:#fff;
+}
+.boxIcon a:hover i.iconRounded,
+.boxIcon a:hover i.iconSquared {
+	background:#fff;
+} 
+
+/* miscelanious */
+.whiteText {
+	color:white;
+}
+
+/*** call to action ***/
+.ctaBoxArrow .ctaBoxText {
+	background-color: #333;
+}
+
+.ctaBoxArrow .ctaBoxText h1,
+.ctaBoxArrow .ctaBoxText h2,
+.ctaBoxArrow .ctaBoxText h3,
+.ctaBoxArrow .ctaBoxText h4,
+.ctaBoxArrow .ctaBoxText h5,
+.ctaBoxArrow .ctaBoxText p {
+	color:#fff;
+}
+
+.ctaBoxArrow .ctaBoxText:after {
+	border-top-color:#333;
+}
+
+.ctaBoxArrow .ctaBoxBtn {
+	background:#D9197E;
+}
+
+.ctaBoxArrow .ctaBoxBtn a {
+	color:#fff!important;
+}
+
+.ctaBoxBtn i {
+	color:#fff;
+}
+
+.ctaBoxBtn:hover {
+	
+}
+
+/**** arrow Box ***/
+
+.arrowBox:after{
+	border-color: transparent;
+	border-top-color: #fff;
+	z-index: 1;
+}
+
+/*dark-color*/
+section.dark-color  {
+	background-color:#000;
+	color:#999;
+}
+section.gray-color  {
+	background-color:#CCCCCC;
+	color:#999;
+}
+
+.dark-color h1,
+.dark-color h2,
+.dark-color h3,
+.dark-color h4,
+.dark-color h5,
+.dark-color h6,
+.dark-color .owl-theme .owl-controls .owl-buttons div {
+	color:#fff;
+}
+
+.dark-color .btn {
+	color:#fff;
+	border-color:#fff;
+}
+
+.dark-color .btn,
+.owl-theme .owl-controls .owl-buttons div {
+	border-color:#93816E;
+}
+
+.dark-color .form-control:focus{
+	border-color:#999;
+}
+
+.ctaBoxArrow.dark-color .ctaBoxText {
+	background-color:#121212;
+}
+
+.dark-color.arrowBox {
+	background-color:#121212;
+}
+
+.dark-color.arrowBox:after{
+	border-top-color: #121212;
+}
+
+.ctaBoxArrow.dark-color .ctaBoxText:after{
+	border-top-color: #121212;
+}
+
+/*light-color*/
+.light-color {
+	background-color:#f7f7f7;
+	color:#121212;
+}
+
+.light-color.arrowBox:after{
+	border-top-color: #f7f7f7;
+}
+
+.ctaBoxArrow.light-color .ctaBoxText {
+	background: #eee;
+}
+
+.ctaBoxArrow.light-color .ctaBoxText h1,
+.ctaBoxArrow.light-color .ctaBoxText h2,
+.ctaBoxArrow.light-color .ctaBoxText h3,
+.ctaBoxArrow.light-color .ctaBoxText h4,
+.ctaBoxArrow.light-color .ctaBoxText h5,
+.ctaBoxArrow.light-color .ctaBoxText p {
+	color:#93816E;
+}
+
+.ctaBoxArrow.light-color .ctaBoxText:after{
+	border-top-color: #eee;
+}
+
+.light-color h1.arrow:after {
+	background: #121212;
+}
+
+
+.light-color h1 strong {
+	background:#fff;
+	color:#3d3d3d;
+}
+
+.light-color .ctaBox {
+	border-color:rgba(255,255,255,0.5);
+}
+
+.light-color h1:before,
+.light-color h1:after{
+	color:#5e5e5e;
+}
+
+/*** icons ***/
+.iconRounded,
+.iconSquared {
+	color:#555;
+	background:#f7f7f7;
+}
+.iconRounded:hover,
+.iconSquared:hover{
+	background:#fff;
+color:#fff !important;
+}
+
+
+.iconRounded:hover,
+.dark-color .iconRounded:hover {
+	background-color:#5e5e5e;
+	color:#fff;
+}
+
+.light-color .iconRounded {
+	background-color:#FFF;
+	color:#3d3d3d;
+}
+
+.socialNetwork a i.iconRounded.icon-glyph-334:hover,
+.socialNetwork a i.iconSquared.icon-glyph-334:hover {
+	background-color: #93816E;
+}
+.explore .boxIcon a:hover{
+background:none !important;
+color:#fff !important;
+}
+.exp-sign{
+	background-color:#D9197E;
+	padding:10px 40px;
+	color: #fff !important;
+	text-transform:uppercase;
+	border-radius:3px;
+	 font-family: AvenirLT45Book,sans-serif;
+	 font-size:16px;
+}
+
+@media(min-width:768px){
+
+	/*set the arrow on the right side of the box, remove the bottom one */
+	.ctaBoxArrow.ctaBox2Cols .ctaBoxText:after {
+		border-left-color:#333;
+		border-top-color:transparent;
+	}
+	.ctaBoxArrow.ctaBox2Cols.dark-color .ctaBoxText:after{
+		border-left-color: #121212;
+		border-top-color:transparent;
+	}
+	.ctaBoxArrow.ctaBox2Cols.light-color .ctaBoxText:after{
+		border-left-color: #eee;
+		border-top-color:transparent;
+	}
+}
+
+/* END NEKO CSS FRAMEWORK
+================================================== */

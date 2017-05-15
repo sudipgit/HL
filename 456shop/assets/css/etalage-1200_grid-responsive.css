@@ -1,0 +1,11 @@
+@media (min-width: 1200px) {
+	.visible-desktop.etalage-full{
+		display: block !important;
+	}
+	.visible-desktop.etalage-portrait{
+		display: none !important;
+	}
+	.etalage_zoom_area{
+		margin-left: 18px !important;
+	}
+}

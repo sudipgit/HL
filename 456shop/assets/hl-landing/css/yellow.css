@@ -1,0 +1,878 @@
+/* 
+    Document   : colors
+    Author     : Little Neko
+    Description: template colors
+    */
+
+
+/* Table of Content
+==================================================
+
+#BOOSTRAP CUSTOMIZATION
+#TYPOGRAPHY
+#PARALLAX STUFF
+#LINKS AND BUTTONS
+#HEADER
+#MAIN MENU 
+#FOOTER 
+#HOME
+#PAGES 
+#SLIDERS
+#BLOG
+#PORTFOLIO
+#MISCELANIOUS
+#NEKO CSS FRAMEWORK
+
+*/
+/* COLORS : fcc813 
+
+
+/* BOOSTRAP CUSTOMIZATION
+================================================== */
+
+/** tabs and accordion**/
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	background:#fff;
+	color:#333;
+}
+
+.nav-tabs > li > a {
+	border:1px solid #fff;
+	color:#fff;
+}
+
+.nav>li>a:hover, .nav>li>a:focus, .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+	background: #fcc813;
+	border-color: #fcc813;
+	color: #FFF;
+}
+
+}
+.panel-default {box-shadow:none;}
+
+.panel-default>.panel-heading {
+	background:#444;
+	border-top:none;
+	color:#fff;
+}
+
+.panel-default>.panel-heading:hover a {background:#fcc813;}
+
+.panel-default>.panel-heading:hover a, .panel-default>.panel-heading:hover a:after{color:#fff; }
+
+.panel-title>a {color:#fff;}
+
+.panel-title>a:hover {text-decoration: none;}
+
+.panel-body{background:#333;}
+
+/*** pagination ***/
+
+.pagination>li>a, .pagination>li>span {
+	border:none;
+	color: #ddd;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+	background: #3d3d3d ;
+}
+
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus{
+	background: none repeat scroll 0 0 #3d3d3d ;
+	border:none;
+	color:#fff;
+}
+
+
+.pager li>a:hover, .pager li>a:focus {
+	background:#fcc813;
+	color:#fff;
+	border-color:#fcc813;
+}
+
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background:#3d3d3d;}
+
+.progress {background:#333;}
+
+.progress-bar {background-color:#fcc813;}
+
+.progress-bar-success {background-color: #5BB75B;}
+
+.progress-bar-info {background-color: #49AFCD;}
+
+.progress-bar-warning {background-color: #FAA732;}
+
+.progress-bar-danger {background-color: #DA4F49;}
+
+.skillNum {background:#333;}
+
+.skillNum:after {
+	border-color: transparent;
+	border-top-color: #333;
+}
+
+/*** alerts ***/
+.alert {
+	color:#fff;
+	border:none;
+}
+
+.alert-success {background-color: #5BB75B;}
+
+.alert-info {background-color: #49AFCD;}
+
+.alert-warning {background-color: #FAA732;}
+
+.alert-danger {background-color: #DA4F49;}
+
+/*** tooltip ***/
+.tooltip-inner{
+	background:#fff;
+	color:#333;
+}
+
+.tooltip.top .tooltip-arrow{border-top-color:#fff}
+
+.tooltip.left .tooltip-arrow{border-left-color:#fff}
+
+.tooltip.bottom .tooltip-arrow{border-bottom-color:#fff}
+
+.tooltip.right .tooltip-arrow{border-right-color:#fff}
+
+.tooltip.in{
+    opacity:1;
+    filter:alpha(opacity=100)
+}
+
+/*** end tooltip ***/
+
+.jumbotron {
+	background:#fcc813;
+	color:#fff;
+}
+
+.jumbotron h1, .jumbotron h2, .jumbotron h3, .jumbotron h4, .jumbotron p {
+	color:#fff;
+}
+
+/* END BOOSTRAP CUSTOMIZATION
+================================================== */
+
+/* TYPOGRAPHY
+================================================== */
+
+body, section {
+	/* background color set on sections for supersized version */
+	color:#999;
+	background-color: #222;
+}
+/* remove background color on section when it's not needed */
+section.fullscreenSection, section.superSizedSection, section.owl-carousel, section#mainFooter, section#parallaxForm {background-color:transparent;}
+
+blockquote small {
+	color:inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color:#eee;
+}
+
+h1.arrow, .paralaxText h1.arrow{
+	background:#fcc813;
+	color:#fff;
+}
+
+h1.arrow:after {
+	border-top-color: #fcc813;
+}
+
+h2 i {color:#999}
+
+.paralaxText .iconRounded {border-color: #fff;}
+
+.paralaxText .iconRounded:hover {
+	border-color: #fff; background:none;
+}
+
+.paralaxText .quote {background: #fff;}
+
+.paralaxText .quote:after{
+	border-color: transparent;
+	border-top-color: #fff;
+}
+
+/* END TYPOGRAPHY
+================================================== */
+
+/* PARALLAX STUFF
+================================================== */
+#paralaxSlice1, #paralaxSlice2, #paralaxSlice3, #paralaxSlice4 {background-color:#3d3d3d;}
+
+.paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h2 small, .paralaxText h3, .paralaxText p, .paralaxText i{ color:#fff;}
+.paralaxText .quote blockquote, .paralaxText .quote h1, .paralaxText .quote h2, .paralaxText .quote h2 small, .paralaxText .quote h3, .paralaxText .quote p, .paralaxText .quote i{ color:#333;}
+.paralaxText label i {color:#eee;}
+/* END PARALLAX STUFF
+================================================== */
+
+/* LINKS AND BUTTONS
+================================================== */
+
+a {color:#fcc813;}
+
+a:hover, .scrollspyNav .active a {color:#fff;}
+
+ul.iconsList li a {color:#555;}
+
+ul.iconsList li a:hover, ul.iconsList i {color:#3d3d3d;}
+
+/*** buttons ***/
+.btn {
+	background: none;
+	color: #fff;
+	border: 1px solid #fff;
+}
+
+.btn:hover {
+	background: #fcc813;
+	border-color:#fcc813;
+	color: #fff;
+}
+
+
+.btn-primary {
+	color: #fcc813;
+	border-color:#fcc813;
+}
+
+.btn-primary:hover {
+	border-color:#fcc813;
+	color:#fff;
+}
+
+.btn-primary:after{
+	background:#fcc813;
+}
+
+.btn-info {
+	background: #49AFCD;
+	color: #FFFFFF;
+}
+
+.btn-success {
+	background: #5BB75B;
+	color: #FFFFFF;
+}
+
+.btn-warning {
+	background: #FAA732;
+	color: #FFFFFF;
+}
+
+.btn-danger {
+	background: #DA4F49;
+	color: #FFFFFF!important;
+}
+
+.btn-link, .btn-link:active, .btn-link[disabled], .btn-link:hover {
+	background:none;
+	border:none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow:none;
+	box-shadow: none;
+	color:#49AFCD;
+}
+
+/* END LINKS AND BUTTONS
+================================================== */
+
+/* MAIN MENU 
+================================================== */
+
+#mainHeader{
+	background-color: #121212;
+}
+
+#mainHeader .navbar-inner {
+	background: #444;
+	filter:none !important;
+}
+
+#mainMenu .navbar-nav li:last-child, #mainMenu .navbar-nav li:last-child a{
+	border-bottom:none !important;
+}
+
+.navbar-nav > li > a > i, .navbar-default .navbar-nav > li > a {color:#aaa;}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, #resMainMenu li.active>a {
+	color:#fcc813;
+	background:none;
+}
+
+.navbar-default .navbar-nav > li > a.active {color:#3d3d3d;}
+
+.navbar-nav ul li a {color:#999;}
+
+.navbar-nav li.hover>a, .navbar-nav ul li a:hover {color:#3d3d3d;}
+
+.navbar-nav ul li.hover>a {color:#fff;}
+
+
+/*** MEDIA QUERIES ***/
+
+@media(max-width:767px){}
+
+@media(min-width:768px){
+	
+	/* normal header (no class on body) */
+	.navbar-nav ul {background:#333;}
+	.navbar-nav ul li a:hover, .navbar-nav ul li.hover>a{background:#3d3d3d; color:#fff;}
+
+	#mainMenu .navbar-nav li{border-bottom:none;}
+	#mainMenu .navbar-nav ul li a{border-bottom:1px solid #444;}
+	
+}
+
+@media(min-width:992px){}
+
+@media(min-width:1200px){}
+
+/*** END MEDIA QUERIES ***/
+
+
+
+/* END MAIN MENU 
+================================================== */
+
+
+/* FOOTER 
+================================================== */
+
+footer {
+	color:#777;
+	background:#121212;
+}
+
+footer h1,footer h2,footer h3,footer h4 {color:#777;}
+
+#footerRights {
+	background-color:#fcc813;
+	color:#fff;
+}
+
+#footerRights a{
+	color:#fff;
+}
+
+/* END FOOTER 
+================================================== */
+
+/* SLIDERS
+================================================== */
+/* slider, fullscreen image and fullscreen video text*/
+.fsCaption, .fsCaption h1,  .fsCaption h2 {
+	color:#fff;
+	text-shadow: 0 0 10px rgba(255, 255, 255, 1);
+	background:none;
+}
+
+/*** supersized ***/
+#nextslide, #prevslide {
+	background:#fcc813;
+	-webkit-transition: all 0.4s ease-out;
+	-moz-transition: all 0.4s ease-out;
+	-o-transition: all 0.4s ease-out;
+	-ms-transition: all 0.4s ease-out;
+	transition: all 0.4s ease-out;
+}
+#nextslide:before, #prevslide:before {
+	color:#fff;
+}
+/*** OWL Carousel ***/
+.owl-theme .owl-controls .owl-buttons div{
+	background:none;
+	border:1px solid #fff;
+	-webkit-transition: all 0.4s ease-out;
+	-moz-transition: all 0.4s ease-out;
+	-o-transition: all 0.4s ease-out;
+	-ms-transition: all 0.4s ease-out;
+	transition: all 0.4s ease-out;
+}
+
+.owl-theme .owl-controls .owl-buttons div:hover{
+	background-color:#fcc813;
+	border-color:#fcc813;
+}
+
+
+.owl-theme .owl-controls .owl-page span.owl-numbers, .owl-theme .owl-controls .owl-page.active span.owl-numbers {
+	background:#fcc813;
+	color:#fff;
+	border:none;
+	border-radius: 0
+}
+
+.owlCaption {
+	color:#333;
+	background:rgba(255, 255, 255, 0.5);
+}
+
+
+/* END SLIDERS
+================================================== */
+
+/* BLOG
+================================================== */
+.post header {
+	background:#fcc813;
+}
+
+.post h2 a {color:#555;}
+
+.post h2 a:hover {color:#3d3d3d;}
+
+.tagCloud a:link, .tagCloud a:visited {
+	color: #fff;
+	border:1px solid #eee;
+}
+
+.tagcloud a:hover {
+	background-color: #3d3d3d ;
+	color: #FFF;
+}
+
+p.credits {
+	color:#555;
+	background:#eee;
+}
+
+p.credits a {color:#3d3d3d;}
+
+.search .btn {
+	background:#fcc813;
+	border: 1px solid #fcc813;
+}
+
+.search .btn:hover {border-color:#fff;}
+.search .btn:hover i {color:#fcc813!important;}
+
+.entry-meta {color:#333;}
+
+.entry-meta a {color:#fff;}
+
+.entry-meta a:hover {color:#333;}
+
+/* END BLOG
+================================================== */
+
+/* PORTFOLIO
+================================================== */
+
+nav#filter a {
+	border:1px solid #ddd;
+	color:#555;
+}
+
+nav#filter a:hover, nav#filter a.current {
+	background-color: #3d3d3d ;
+	color:#fff;
+	border-color:#3d3d3d;
+}
+
+li.filterTitle {
+	color:#4F6266;
+}
+
+section#projectDescription {
+	background-color:#F8F8F8
+}
+
+.mfp-bg {background-color: #111;}
+
+.boxLink {
+	background:#3d3d3d;
+	color:#fff;
+	text-align:center;
+	position:relative;
+}
+
+.boxLink h2 {color:#fff;}
+
+.iconLinks a:hover i, .pinInfo li a:hover {text-shadow: 0 0 5px #FFF;}
+
+.imgHover figcaption {
+	background: #fcc813;
+	color: #fff;
+}
+
+.imgHover figcaption h3 {color: #fff;}
+
+.neko-hover-1 figcaption .iconLinks a i {color:white;}
+
+.neko-hover-2 figcaption a {color:#fff; text-decoration: none;}
+
+.neko-hover-2 figcaption a:hover {
+	text-shadow: 0 0 5px #FFF;
+	color:#fff;
+	text-decoration: none;
+}
+
+/* END PORTFOLIO
+================================================== */
+
+/* MISCELANIOUS
+================================================== */
+/* Preloader one page */
+#preloader {
+	background-color:#3d3d3d; /* change if the mask should have another color then white */	
+}
+
+#status {background : url(../images/theme-pics/loading.gif) no-repeat center center;}
+
+/*** Scroll up Button ***/
+#nekoToTop{
+	color:#3d3d3d;
+	background:#fff;
+	border:1px solid rgba(0, 0, 0, 0.15);
+}
+
+#nekoToTop:hover{
+	color:#fff;
+	background:#3d3d3d;	
+}
+
+/** focus color ***/
+::-moz-selection {
+	background: #3d3d3d;
+	color: #fff;
+	text-shadow: none;
+}
+
+::selection {
+	background: #3d3d3d;
+	color: #fff;
+	text-shadow: none;
+}
+
+/*** hover images ***/
+.mask {background:#3d3d3d;}
+
+.hoverInfo a i{color:#fff;}
+
+.hoverInfo a i.iconRounded {border-color: #fff;}
+
+.hoverInfo a:hover span {color:#3d3d3d;}
+
+.hoverInfo a:hover i.iconRounded {border-color: #3d3d3d;}
+
+/*** pricing table ***/
+.pricingBloc {
+	background:#444;
+}
+.pricingBloc ul li {
+	color:#999!important;
+}
+
+.pricingBloc ul li:nth-child(odd) {background-color:#333;}
+
+.pricingBloc ul li:last-child {border-bottom:none;}
+
+.pricingBloc h2 {
+	background-color:#fff;
+	color:#888!important;
+}
+
+.pricingBloc h3 { color:#777;}
+
+.pricingBloc p {color:#444!important;}
+
+.pricingBloc.focusPlan {
+	margin-top:0;
+	border-color:#fcc813;
+}
+
+.pricingBloc.focusPlan h2{
+	color:#fff!important;
+	border-bottom:none;
+	background:#fcc813;
+}
+
+.pricingBloc.focusPlan h3 {
+	background-color:#3d3d3d ;
+	color:#fff!important;
+}
+
+/*** Form ***/
+span.company {color:#fff;}
+
+#parallaxForm address {background:#333;}
+
+.form-control:focus{
+	border: 1px solid #f7f7f7;
+	background-color:#fff;
+	box-shadow:none;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+}
+
+.form-control {
+	color: #444;
+	border: none;
+	background-color:#f7f7f7;
+}
+
+label {
+	color:#999;
+	background-color: #333;
+}
+
+.error {
+	color: #B94A48;
+	background-color: #F2DEDE;
+	border-color: #EED3D7;
+}
+
+label.error {
+	color:#fff;
+	background-color: #B94A48;
+	border:none
+}
+
+
+/* pop up */
+.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {color:#3d3d3d;}
+
+/* END MISCELANIOUS
+================================================== */
+
+/* NEKO CSS FRAMEWORK
+================================================== */
+/* icons */
+i:hover, .boxIcon a:hover i {
+	text-shadow: 0 0 5px #FFF;
+	color:#fff;
+}
+
+/*portoflio*/
+a.pItemLink i{color:#fff;}
+
+a.pItemLink:hover i{
+	text-shadow: 0 0 5px #FFF;
+	color:#fff;
+}
+
+.boxContent {
+	border-bottom: 4px solid #fcc813;
+	background:#333;
+}
+
+.boxContent h2, .boxContent h3 {color:#fff;}
+
+/*** Feature box ***/
+.featureBox .boxContent{
+	background:none;
+	border:none;
+} 
+
+
+/*** Focus box **/
+
+.boxFocus {background:#222;}
+.boxFocus h2, .boxFocus h3, .boxFocus h4, .boxFocus p, .boxFocus i   {color:#fff}
+
+/*** Icon box **/
+
+.boxIcon a p {color:#777;}
+.boxIcon a:hover h2, .boxIcon a:hover p {color:#fff;}
+
+/* miscelanious */
+.whiteText {color:white;}
+
+/*** call to action ***/
+.ctaBoxArrow .ctaBoxText {background-color: #333;}
+.ctaBoxArrow .ctaBoxText h1, .ctaBoxArrow .ctaBoxText h2, .ctaBoxArrow .ctaBoxText h3, .ctaBoxArrow .ctaBoxText h4, .ctaBoxArrow .ctaBoxText h5, .ctaBoxArrow .ctaBoxText p {color:#fff;}
+.ctaBoxArrow .ctaBoxText:after {border-top-color:#333;}
+
+.ctaBoxArrow .ctaBoxBtn {background:#fcc813;}
+
+.ctaBoxArrow .ctaBoxBtn a {color:#fff!important;}
+
+.ctaBoxBtn i {color:#fff;}
+
+.ctaBoxBtn	a:hover {text-shadow: 0 0 5px #fff;}
+
+/**** arrow Box ***/
+.arrowBox {
+	background-color:#222;
+}
+
+.arrowBox:after{
+	border-color: transparent;
+	border-top-color: #222;
+	z-index: 1;
+}
+
+
+/*dark-color*/
+.dark-color, .ctaBoxArrow.dark-color .ctaBoxText {background-color:#121212;}
+
+.dark-color.arrowBox {background-color:#121212;}
+
+.dark-color.arrowBox:after{
+
+	border-top-color: #121212;
+}
+
+.ctaBoxArrow.dark-color .ctaBoxText:after{
+	border-top-color: #121212;
+}
+
+/*light-color*/
+.light-color{ background-color:#fcc813; color:#fff;}
+
+.light-color.arrowBox{background-color:#fcc813;}
+
+.light-color.arrowBox:after{
+	border-top-color: #fcc813;
+}
+.ctaBoxArrow.light-color .ctaBoxText {background: #eee;}
+.ctaBoxArrow.light-color .ctaBoxText h1, .ctaBoxArrow.light-color .ctaBoxText h2, .ctaBoxArrow.light-color .ctaBoxText h3,
+.ctaBoxArrow.light-color .ctaBoxText h4, .ctaBoxArrow.light-color .ctaBoxText h5, .ctaBoxArrow.light-color .ctaBoxText p {color:#111;}
+.ctaBoxArrow.light-color .ctaBoxText:after{
+	border-top-color: #eee;
+}
+.light-color h1.arrow, .light-color .paralaxText h1.arrow, .light-color .pager li>a:hover, .light-color .pager li>a:focus, .light-color .btn:hover{
+	background:#fff; color:#fcc813; border-color:#fff;
+}
+.light-color h1.arrow:after {
+	border-top-color: #fff;
+}
+.light-color .pager li>a:hover i, .light-color .pager li>a:focus i, .light-color .btn:hover i {
+	color:#fcc813;
+}
+.light-color h1, .light-color h2, .light-color h3, .light-color h4, .light-color blockquote, .light-color a {
+	color:#fff;
+}
+
+.light-color h1 strong {
+	background:#fff;
+	color:#3d3d3d;
+}
+
+.light-color .ctaBox {border-color:rgba(255,255,255,0.5);}
+
+.light-color h1:before,.light-color h1:after{color:#5e5e5e;}
+
+/*** icons ***/
+.iconRounded {
+	color:#fff;
+	background:#fcc813;
+}
+
+.iconRounded:hover, .dark-color .iconRounded:hover{
+	background-color:#5e5e5e;
+	color:#fff;
+}
+
+.light-color .iconRounded {
+	background-color:#FFF;
+	color:#3d3d3d;
+}
+
+
+@media(min-width:768px){
+	/*set the arrow on the right side of the box, remove the bottom one */
+	.ctaBoxArrow.ctaBox2Cols .ctaBoxText:after {
+		border-left-color:#333;
+		border-top-color:transparent;
+	}
+	.ctaBoxArrow.ctaBox2Cols.dark-color .ctaBoxText:after{
+		border-left-color: #121212;
+		border-top-color:transparent;
+	}
+	.ctaBoxArrow.ctaBox2Cols.light-color .ctaBoxText:after{
+		border-left-color: #eee;
+		border-top-color:transparent;
+	}
+}
+
+
+/* END NEKO CSS FRAMEWORK
+================================================== */
+
+/* LIGHT VERSION
+================================================== */
+body, section, #parallaxForm address, .boxFocus {
+	background:#fff;
+}
+h1, h2, h3, h4, h5, h6, .boxContent h2, .boxContent h3, blockquote p, .boxFocus h2, .boxFocus h3, .boxFocus h4, .boxFocus p, .boxFocus i {color:#111;}
+span.company {color:#ccc;}
+.arrowBox, .boxContent, .pricingBloc, #preloader{background:#fff;}
+.arrowBox:after {border-top-color: #fff;}
+.ctaBoxText h1, .ctaBoxText h2, .ctaBoxText h3, .ctaBoxText h4, .ctaBoxText h5, .ctaBoxText p{color:#fff;}
+.dark-color, .dark-color .ctaBoxText, .dark-color.arrowBox {background:#f5f5f5; color:#333;}
+.dark-color .ctaBoxText h1{ color:#fff;}
+.dark-color.arrowBox:after {border-top-color: #f5f5f5;}
+
+.light-color, .light-color.arrowBox, label, label i:before{background:#fcc813;  color:#fff;}
+.light-color.arrowBox:after {border-top-color: #fcc813;}
+
+.light-color.boxFocus h2, .light-color.boxFocus h3, .light-color.boxFocus h4, .light-color.boxFocus p, .light-color.boxFocus i, .light-color.boxFocus a:hover i  {color:#fff}
+
+.light-color .ctaBoxText{background:#1D1D1D;}
+.progress, .pricingBloc h2 {background:#eee;}
+
+.btn, .nav-tabs>li>a, .owl-theme .owl-controls .owl-buttons div{
+	color: #333;
+	border: 1px solid #333;
+}
+#slidecaption .btn, .paralaxText .btn{
+	color: #fff;
+	border: 1px solid #fff;
+}
+.light-color .btn {
+	color: #fff;
+	border: 2px solid #fff;
+}
+
+.light-color .btn:hover {
+	color: #fcc813;
+	border-color: #fff;
+}
+
+
+.light-color h1.arrow, .light-color .paralaxText h1.arrow {
+	background: #fff;
+	color: #fcc813;
+}
+.light-color h1.arrow:after{
+	border-top-color: #fff;
+}
+
+.arrowBox, .boxContent, .pricingBloc {
+	background:#fff;
+}
+
+.post h1, .post i {color:#fff;}
+
+.boxIcon a:hover h2, .boxIcon a:hover p {color:#111;}
+.boxIcon a:hover i {color:#111;}
+#pageslide {background:#eee;}
+.date {color:#000;}
+
+.panel-default>.panel-heading {
+	background:#eee;
+	border-top:none;
+	color:#333;
+}
+
+.panel-default>.panel-heading:hover a {background:#fcc813;}
+
+.panel-default>.panel-heading:hover a, .panel-default>.panel-heading:hover a:after{color:#fff; }
+
+.panel-title>a {color:#333;}
+
+.panel-title>a:hover {text-decoration: none;}
+
+.panel-body{background:#fff;}

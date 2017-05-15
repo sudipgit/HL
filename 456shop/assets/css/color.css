@@ -1,0 +1,222 @@
+a{
+	color: #c82f2a;
+}
+a:hover{
+	color: #c82f2a;
+}
+a.link-style:hover,
+.link-style a:hover{
+	color: #c82f2a;
+}
+.tax-product_cat #header .navbar .menu-shop,
+.tax-product_tag #header .navbar .menu-shop,
+#header .navbar .nav li.dropdown.current-menu-parent > .dropdown-toggle,
+#header .navbar .nav li.dropdown.open.current-menu-parent > .dropdown-toggle,
+#header .navbar .nav > .current-menu-parent > a,
+#header .navbar .nav > .current-menu-parent > a:hover,
+#header .navbar .nav > .current-menu-parent > a:focus,
+#header .navbar .nav li.dropdown.current-menu-ancestor > .dropdown-toggle,
+#header .navbar .nav li.dropdown.open.current-menu-ancestor > .dropdown-toggle,
+#header .navbar .nav > .current-menu-ancestor > a,
+#header .navbar .nav > .current-menu-ancestor > a:hover,
+#header .navbar .nav > .current-menu-ancestor > a:focus,
+#header .navbar .nav li.dropdown.current_page_ancestor > .dropdown-toggle,
+#header .navbar .nav li.dropdown.open.current_page_ancestor > .dropdown-toggle,
+#header .navbar .nav > .current_page_ancestor > a,
+#header .navbar .nav > .current_page_ancestor > a:hover,
+#header .navbar .nav > .current_page_ancestor > a:focus,
+#header .navbar .nav li.dropdown.current_page_parent > .dropdown-toggle,
+#header .navbar .nav li.dropdown.open.current_page_parent > .dropdown-toggle,
+#header .navbar .nav > .current_page_parent > a,
+#header .navbar .nav > .current_page_parent > a:hover,
+#header .navbar .nav > .current_page_parent > a:focus,
+#header .navbar .nav li.dropdown.current_page_item > .dropdown-toggle,
+#header .navbar .nav li.dropdown.open.current_page_item > .dropdown-toggle,
+#header .navbar .nav > .current_page_item > a,
+#header .navbar .nav > .current_page_item > a:hover,
+#header .navbar .nav > .current_page_item > a:focus,
+#header .navbar .nav li.dropdown.open > .dropdown-toggle,
+#header .navbar .nav > li > a:focus,
+#header .navbar .nav > li > a:focus,
+#header .navbar .nav > li > a:hover,
+#header .navbar .nav > .active > a,
+#header .navbar .nav > .active > a:hover,
+#header .navbar .nav > .active > a:focus {
+	color: #c82f2a;
+}
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background-color: #c82f2a;
+  background-image: -moz-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eb3731), to(#c82f2a));
+  background-image: -webkit-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -o-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: linear-gradient(to bottom, #eb3731, #c82f2a);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeb3731', endColorstr='#ffc82f2a', GradientType=0);
+}
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover {
+  background-color: #c82f2a;
+  background-image: -moz-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eb3731), to(#c82f2a));
+  background-image: -webkit-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -o-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: linear-gradient(to bottom, #eb3731, #c82f2a);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeb3731', endColorstr='#ffc82f2a', GradientType=0);
+}
+.menu-item div.item .price ins{
+	color: #c82f2a;
+}
+.post_type .icon{
+  background-color: #c82f2a;
+}
+.btn-primary {
+  background-color: #c82f2a;
+  *background-color: #c82f2a;
+  background-image: -moz-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eb3731), to(#c82f2a));
+  background-image: -webkit-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: -o-linear-gradient(top, #eb3731, #c82f2a);
+  background-image: linear-gradient(to bottom, #eb3731, #c82f2a);
+  background-repeat: repeat-x;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeb3731', endColorstr='#ffc82f2a', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  background-color: #c82f2a;
+  *background-color: #c82f2a;
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #eb3731 \9;
+}
+.widget.widget_rss ul a:hover,
+.widget.widget_pages ul a:hover,
+.widget.widget_nav_menu ul a:hover,
+.widget.widget_login ul a:hover,
+.widget.widget_meta ul a:hover,
+.widget.widget_categories ul a:hover,
+.widget.widget_archive ul a:hover,
+.widget.widget_recent_comments ul a:hover,
+.widget.widget_recent_entries ul a:hover,
+.widget.list .unstyled a:hover{
+	color: #c82f2a;
+}
+.accordion-heading .accordion-toggle:hover{
+	color: #c82f2a;
+}
+.tagcloud a:hover,
+.option-set a:hover,
+.tags a:hover{
+  background: #c82f2a;
+  border: 1px solid #c82f2a;
+}
+#main .newsticker_wrapper a {
+	color: #c82f2a;
+}
+.nav-tabs .open .dropdown-toggle,
+.nav-pills .open .dropdown-toggle,
+.nav > li.dropdown.open.active > a:hover,
+.nav-tabs > li > a:hover{
+	color: #c82f2a;	
+}
+.dropcap1{
+  background: #c82f2a;	
+}
+.news-widget .Container .item:hover h5 a,
+.news-widget .Container h5 a:hover{
+	color: #c82f2a;
+}
+.dg-add-content-wrap {
+	background: #c82f2a !important;
+}
+ul.products li.product .price{
+	color: #c82f2a !important;
+}
+.woocommerce .product-post .woocommerce-breadcrumb a:hover, .woocommerce-page .product-post .woocommerce-breadcrumb a:hover,
+#breadcrumb a:hover{
+	color: #c82f2a;
+}
+.woocommerce ul.cart_list li ins, ul.product_list_widget li ins,
+.woocommerce-page ul.cart_list li ins, ul.product_list_widget li ins,
+ul.cart_list li ins, ul.product_list_widget li ins{
+	color: #c82f2a;
+}
+.widget_product_categories ul li a:hover{
+	color: #c82f2a;
+}
+#fancybox-close:hover{
+	background: #c82f2a !important;		
+}
+div.product span.price,
+#content div.product span.price,
+div.product p.price,
+#content div.product p.price{
+	color: #c82f2a !important;
+}
+.woocommerce .group_table label a:hover,
+.woocommerce-page .group_table label a:hover,
+.group_table label a:hover{
+	color: #c82f2a;
+}
+.woocommerce .group_table .price,
+.woocommerce-page .group_table .price,
+.group_table .price{
+	color: #c82f2a;
+}
+.woocommerce .cart-collaterals .cart_totals table tr.total .amount,
+.woocommerce-page .cart-collaterals .cart_totals table tr.total .amount,
+.cart-collaterals .cart_totals table tr.total .amount{
+	color: #c82f2a;
+}
+.woocommerce #order_review table.shop_table tfoot .total .amount,
+.woocommerce-page #order_review table.shop_table tfoot .total .amount,
+#order_review table.shop_table tfoot .total .amount{
+	color: #c82f2a;
+}
+.menu-item div.item .price{
+	color: #c82f2a;
+}
+.heading .heading-navi:hover{
+	color: #c82f2a;
+}
+#header .Cart .header-cart-navi a:hover{
+	color: #c82f2a;
+}
+.woocommerce p.product .amount,
+.woocommerce-page p.product .amount,
+p.product .amount{
+	color: #c82f2a;
+}
+.woocommerce ul.products li.product a:hover h3,
+.woocommerce-page ul.products li.product a:hover h3,
+ul.products li.product a:hover h3{
+	color: #c82f2a;
+}
+.member-social .icon:hover{
+	color: #c82f2a;
+}
+.about-post .member:hover .name{
+	color: #c82f2a;
+}
+.menu-item div.item.portfolio-item:hover h5{
+	color: #c82f2a;
+}
+.btn-link{
+	color: #eb3731;
+}
+.btn-link:a{
+	color: #c82f2a;
+}
+#footer .style2 li a:hover,
+#footer .style1 li a:hover,
+#footer .advanced li a:hover{
+	color: #c82f2a;
+}

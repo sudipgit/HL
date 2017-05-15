@@ -1,0 +1,105 @@
+
+@font-face {
+	font-family: AvenirLT45Book;
+	src: url('assets/fonts/avenir/AvenirLT45Book.ttf');
+}
+
+@font-face {
+	font-family: AvenirBold;
+	src: url('assets/fonts/avenir/AvenirLT65Medium.ttf');
+}
+@font-face {
+	font-family: AvenirBolder;
+	src: url('assets/fonts/avenir/AvenirLT95Black.ttf');
+}
+
+.salon-profile-registration .button{
+	padding: 7px 20px !important;
+}
+.button{
+	background: #d9197e;
+	border:none;
+	padding: 7px 20px;
+	border-radius:5px;
+	color:#fff;
+}
+.mt-20{
+	margin-top:20px;
+}.mt-30{
+	margin-top:30px;
+}.mt-40{
+	margin-top:40px;
+}.mt-50{
+	margin-top:50px;
+}.mt-60{
+	margin-top:60px;
+}
+.mt-70{
+	margin-top:70px;
+}
+.mt-80{
+	margin-top:80px;
+}
+.mb-20{
+	margin-bottom:20px;
+}.mb-30{
+	margin-bottom:30px;
+}.mb-40{
+	margin-bottom:40px;
+}.mb-50{
+	margin-bottom:50px;
+}.mb-60{
+	margin-bottom:60px;
+}.mb-70{
+	margin-bottom:70px;
+}.mb-80{
+	margin-bottom:80px;
+}
+
+
+/********Salon Settine and Registration**************/
+.salon-profile-registration .setting-form label{
+	color: #939393;
+    opacity: 1;
+	cursor: pointer;
+}
+.salon-profile  .setting-form
+{
+margin-left:50px;
+}
+
+.salon-profile  .setting-form  label
+{
+	font-weight:bold;
+}
+
+.salon-profile .pagetitle{
+	background: #fff;
+	color:#000;
+	font-size: 18px; 
+	margin:0 auto;
+	padding-top:5px;
+	  position: relative;
+    text-adivgn: center;
+    text-transform: uppercase;
+    top: -25px;
+    width: 230px;
+	
+}
+.salon-profile-registration{
+	border-top:1px sodivd #ddd;
+	margin-top: 20px;
+	
+}
+.salon-profile-registration .cover-image{
+	width:250px;
+	margin:10px 0;
+}
+.salon-profile-registration .cover-image img{
+	max-width:100%;
+	
+}
+
+.affiliate-sales{
+margin-left:50px;
+}

@@ -1,0 +1,164 @@
+@media (min-width: 768px) and (max-width: 979px) {
+	
+.mega-dd-4 section,
+.mega-dd-3 section,
+.mega-dd-2 section,
+.mega-dd-1 section,
+.mega-dd-4 ul,
+.mega-dd-3 ul,
+.mega-dd-2 ul,
+.mega-dd-1 ul {
+	width: 228px;
+	margin-left: 20px;
+}
+.mega-dd-4 ul,
+.mega-dd-3 ul,
+.mega-dd-2 ul,
+.mega-dd-1 ul{
+	margin-left: 0;
+}
+	
+}
+
+@media (max-width: 767px) {
+		
+.mega-dd-4 section,
+.mega-dd-3 section,
+.mega-dd-2 section,
+.mega-dd-1 section,
+.mega-dd-4 ul,
+.mega-dd-3 ul,
+.mega-dd-2 ul,
+.mega-dd-1 ul {
+	width: 100%;
+}
+	
+.mega-dd-4 .product,
+.mega-dd-3 .product,
+.mega-dd-2 .product,
+.mega-dd-1 .product {
+    width: 50%;
+}
+	
+}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 768px) and (max-width: 979px) {}
+
+@media (max-width: 480px) {
+	
+
+	
+}
+
+@media (max-width: 979px) {
+.nav-collapse .nav .nav-header {
+	color: #555;
+}
+	.nav-collapse .nav > li > a,
+	.nav-collapse .dropdown-menu a {
+		-webkit-border-radius: 0;
+		-moz-border-radius: 0;
+		border-radius: 0;
+		font-weight: normal;
+		color: #555;
+	}
+	.nav-collapse .dropdown-menu a {
+		padding: 5px 15px	  
+	}
+	.tax-product_cat #header .navbar .menu-shop,
+	.tax-product_tag #header .navbar .menu-shop,
+	#header .navbar .nav li.dropdown.current-menu-parent > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.current-menu-parent > .dropdown-toggle,
+	#header .navbar .nav > .current-menu-parent > a,
+	#header .navbar .nav > .current-menu-parent > a:hover,
+	#header .navbar .nav > .current-menu-parent > a:focus,
+	#header .navbar .nav li.dropdown.current-menu-ancestor > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.current-menu-ancestor > .dropdown-toggle,
+	#header .navbar .nav > .current-menu-ancestor > a,
+	#header .navbar .nav > .current-menu-ancestor > a:hover,
+	#header .navbar .nav > .current-menu-ancestor > a:focus,
+	#header .navbar .nav li.dropdown.current_page_ancestor > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.current_page_ancestor > .dropdown-toggle,
+	#header .navbar .nav > .current_page_ancestor > a,
+	#header .navbar .nav > .current_page_ancestor > a:hover,
+	#header .navbar .nav > .current_page_ancestor > a:focus,
+	#header .navbar .nav li.dropdown.current_page_parent > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.current_page_parent > .dropdown-toggle,
+	#header .navbar .nav > .current_page_parent > a,
+	#header .navbar .nav > .current_page_parent > a:hover,
+	#header .navbar .nav > .current_page_parent > a:focus,
+	#header .navbar .nav li.dropdown.current_page_item > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.current_page_item > .dropdown-toggle,
+	#header .navbar .nav > .current_page_item > a,
+	#header .navbar .nav > .current_page_item > a:hover,
+	#header .navbar .nav > .current_page_item > a:focus,
+	#header .navbar .nav li.dropdown.open > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.active > .dropdown-toggle,
+	#header .navbar .nav li.dropdown.open.active > .dropdown-toggle,
+	#header .navbar .nav > .active > a,
+	#header .navbar .nav > .active > a:hover,
+	#header .navbar .nav > .active > a:focus{
+		border-bottom: 1px solid #ccc;
+	}
+	#header .navbar .nav{
+		margin: 0;
+	}
+	#header .navbar .nav > li > a{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.nav-collapse .nav > li > a:hover,
+	.nav-collapse .dropdown-menu a:hover {
+		background-color: #fafafa;
+	}
+	.dropdown-menu li > a{
+		margin: 0;
+	}
+	.nav-collapse .dropdown-menu {
+		margin: 9px 0 0;
+	}
+	.dropdown-submenu > .dropdown-menu {
+	  display: block;
+	}
+	.nav-header{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.dropdown .dropdown-menu .nav-header{
+		padding: 5px 15px;
+	}
+	.dropdown-submenu > .dropdown-menu{
+		margin-top: 7px;
+		border-top: 1px solid transparent;
+	}
+	.dropdown-submenu > a{
+		background-color: #ebebeb !important;
+		padding: 5px 20px 5px 15px !important;
+	}
+	.dropdown-submenu:hover > a {
+		color: #ffffff;
+	}
+	#header .navbar .nav > li {
+		margin-right: 0;
+	}
+	
+	
+
+
+		
+	
+}
+
+@media (min-width: 980px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	.mega-dd-4 .product,
+	.mega-dd-3 .product,
+	.mega-dd-2 .product,
+	.mega-dd-1 .product {
+	    width: 100%;
+	}	
+}

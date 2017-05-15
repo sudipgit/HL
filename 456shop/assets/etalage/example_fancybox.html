@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Etalage - Fancybox example</title>
+
+		<!-- Include the Etalage CSS -->
+		<link rel="stylesheet" href="css/etalage.css" />
+
+		<!-- Include the Fancybox CSS -->
+		<link rel="stylesheet" href="demo_files/_fancybox_plugin/jquery.fancybox-1.3.4.css" />
+
+		<!-- Include jQuery: -->
+		<script src='js/jquery-1.8.1.min.js'></script>
+
+		<!-- Include the Etalage plugin: -->
+		<script src="js/jquery.etalage.min.js"></script>
+
+		<!-- Include the Fancybox plugin: -->
+		<script src="demo_files/_fancybox_plugin/jquery.fancybox-1.3.4.pack.js"></script>
+
+		<!-- Invoke the Etalage plugin -->
+		<script>
+			$(document).ready(function(){
+				$('#etalage').etalage();
+			});
+
+			// Invoke the Fancybox plugin when an image is clicked
+			function etalage_click_callback(image_anchor, instance_id){
+				$.fancybox({
+					href: image_anchor
+				});
+			}
+		</script>
+		<style>
+			body{ margin: 50px; }
+			#etalage{ margin-right: 50px; }
+		</style>
+	</head>
+	<body>
+
+		<ul id="etalage">
+			<li>
+				<!-- Put the lightbox destination for this frame in the anchor tag -->
+				<a href="demo_files/images/image2_large.jpg">
+					<img class="etalage_thumb_image" src="demo_files/images/image2_thumb.jpg" />
+					<img class="etalage_source_image" src="demo_files/images/image2_large.jpg" title="Now click for fancybox." />
+				</a>
+			</li>
+			<li>
+				<!-- Put the lightbox destination for this frame in the anchor tag -->
+				<a href="demo_files/images/image1_large.jpg">
+					<img class="etalage_thumb_image" src="demo_files/images/image1_thumb.jpg" />
+					<img class="etalage_source_image" src="demo_files/images/image1_large.jpg" title="Now click for fancybox." />
+				</a>
+			</li>
+		</ul>
+
+		<a href="instructions.html">Back to instructions</a>
+		<br><br>
+		The "click" callback function is used to trigger fancybox to open the image supplied in the anchor's href.
+		<br><br>
+		<a href="example_fancybox-nozoom.html">Fancybox without zoom example</a>
+
+	</body>
+</html>

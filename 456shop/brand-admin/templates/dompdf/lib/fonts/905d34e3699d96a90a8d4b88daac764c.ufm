@@ -1,0 +1,46 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName fontello
+FontSubfamily Regular
+UniqueID FontForge 2.0 : fontello : 21-5-2013
+FullName fontello
+Version Version 1.0
+PostScriptName fontello
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 90
+Ascender 840
+Descender -140
+FontBBox 0 -140 1000 840
+StartCharMetrics 27
+U 59392 ; WX 580 ; N plus ; G 3
+U 59393 ; WX 580 ; N minus ; G 4
+U 59394 ; WX 530 ; N pause ; G 5
+U 59395 ; WX 600 ; N stop ; G 6
+U 59396 ; WX 500 ; N play ; G 7
+U 59397 ; WX 470 ; N cancel ; G 10
+U 59398 ; WX 1000 ; N doc-landscape ; G 11
+U 59399 ; WX 580 ; N down-open ; G 12
+U 59400 ; WX 341 ; N left-open ; G 13
+U 59401 ; WX 465 ; N left-open-big ; G 21
+U 59402 ; WX 265 ; N left-open-mini ; G 17
+U 59403 ; WX 340 ; N right-open ; G 14
+U 59404 ; WX 265 ; N right-open-mini ; G 18
+U 59405 ; WX 465 ; N right-open-big ; G 22
+U 59406 ; WX 580 ; N up-open ; G 15
+U 59407 ; WX 464 ; N up-open-mini ; G 19
+U 59408 ; WX 864 ; N up-open-big ; G 23
+U 59409 ; WX 466 ; N down-open-mini ; G 16
+U 59410 ; WX 866 ; N down-open-big ; G 20
+U 59411 ; WX 580 ; N mobile ; G 24
+U 59412 ; WX 789 ; N search ; G 25
+U 59413 ; WX 800 ; N link ; G 26
+U 59414 ; WX 880 ; N star ; G 8
+U 59415 ; WX 880 ; N star-empty ; G 9
+EndCharMetrics
+EndFontMetrics

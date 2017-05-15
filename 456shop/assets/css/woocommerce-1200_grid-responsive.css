@@ -1,0 +1,59 @@
+@media (min-width: 1200px) {
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product,
+ul.products li.product{
+	margin-bottom: 30px
+}
+.row-fluid .products [class*="span"] {
+    margin-left: 2.564102564102564% !important;
+    *margin-left: 2.5109110747408616% !important;
+  }
+.row-fluid .products .span12 {
+    width: 100%;
+    *width: 99.94680851063829% !important;
+  }
+.row-fluid .products .span11 {
+    width: 91.45299145299145% !important;
+    *width: 91.39979996362975% !important;
+  }
+.row-fluid .products .span10 {
+    width: 82.90598290598291% !important;
+    *width: 82.8527914166212% !important;
+  }
+.row-fluid .products .span9 {
+    width: 74.35897435897436% !important;
+    *width: 74.30578286961266% !important;
+  }
+.row-fluid .products .span8 {
+    width: 65.81196581196582% !important;
+    *width: 65.75877432260411% !important;
+  }
+.row-fluid .products .span7 {
+    width: 57.26495726495726% !important;
+    *width: 57.21176577559556% !important;
+  }
+.row-fluid .products .span6 {
+    width: 48.717948717948715% !important;
+    *width: 48.664757228587014% !important;
+  }
+.row-fluid .products .span5 {
+    width: 40.17094017094017% !important;
+    *width: 40.11774868157847% !important;
+  }
+.row-fluid .products .span4 {
+    width: 31.623931623931625% !important;
+    *width: 31.570740134569924% !important;
+  }
+.row-fluid .products .span3 {
+    width: 23.076923076923077% !important;
+    *width: 23.023731587561375% !important;
+  }
+.row-fluid .products .span2 {
+    width: 14.52991452991453% !important;
+    *width: 14.476723040552828% !important;
+  }
+.row-fluid .products .span1 {
+    width: 5.982905982905983% !important;
+    *width: 5.929714493544281% !important;
+  }
+}

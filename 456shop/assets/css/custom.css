@@ -1,0 +1,1845 @@
+
+.footer-social .social ul li,
+.footer-social .social ul
+{
+border:none;
+padding: 0;
+}
+
+.footer-social .social 
+{
+border:none;
+padding:5px 0 40px;
+margin:0;
+} 
+
+.footer-social .social ul li img
+{
+max-height:100%;
+max-width:100%;
+} 
+
+.footer-social  .pfacebook {
+    height: 23px;
+    width: 7px;
+}
+.footer-social  .ptwitter {
+   height: 23px;
+    width: 16px;
+}
+
+.footer-social .pinstagram {
+    height: 23px;
+    width: 14px;
+}
+
+
+.cart-sub
+{
+  display: block;
+    position: absolute;
+    right: 8px;
+    top: 0;
+
+}
+
+#header .social
+{
+position:relative;
+}
+ .my-account .form-actions{
+	 padding-left:0 !important;
+	 text-align:center;
+	 }
+	 
+	 .my-account .form-actions button.button{
+	padding: 6px 30px !important;
+	 }
+	 
+/************Mobile Profile Page**************/
+.mobile-profile{
+max-width:700px;
+margin: 0 auto;
+}
+.mobile-profile .details-left{
+float:left;
+width:32%;
+}
+.mobile-profile .details-left .profile-image{
+    height: 60px;
+    margin: 0 auto;
+    padding: 3%;
+    width: 60px;
+}
+.mobile-profile .details-left h4{
+ font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    text-transform: capitalize;
+	margin: 0;
+}
+.mobile-profile .details-right{
+float:left;
+width:65%;
+text-align:center;
+}
+.mobile-profile .details-right .profile-statistics ul{
+   margin:0;
+}
+.mobile-profile .details-right .profile-statistics ul li{
+   float: left;
+    list-style-type: none;
+	width:48%;
+}
+.mobile-profile .details-right .profile-statistics{
+width:100%;
+margin: 0 auto;
+}
+.mobile-profile .details-right .profile-statistics li h2{
+margin:0;
+font-size:20px;
+}
+.mobile-profile .details-right .profile-statistics li h4{
+font-size:20px;
+color:#999;
+text-transform: lowercase;
+}
+.mobile-profile .details-right .edit-profile-button {
+margin: 10px auto 0;
+    width: 100%;
+}
+.mobile-profile .details-right .edit-profile-button a{
+   background: none repeat scroll 0 0 #d9197e;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+   padding: 3% 14%;
+    text-decoration: none;
+}
+.mobile-profile .mobile-profile-menu{
+border-top: 2px solid #eee;
+padding:5px 0;
+text-align: center;
+}
+.mobile-profile .mobile-profile-menu ul{
+margin:0;
+}
+.mobile-profile .mobile-profile-menu ul li{
+list-style-type:none;
+float: left;
+width:24%;
+border-right: 1px solid #ccc;
+}
+
+.mobile-profile .mobile-profile-menu ul li a{
+
+}
+.mobile-profile .mobile-profile-menu ul li a img{
+
+}
+.hl-tabs-content
+{
+display:none;
+}
+
+/************Mobile Profile Page End**************/
+/************Quick Match Page**************/
+	/*.quick-match .product_nav {
+    margin: -10px 0 20px 0;
+}
+.quick-match .product_nav ul {
+    text-align: center;
+}
+.quick-match .product_nav ul li {
+    display: inline-block;
+    padding: 0 10px;
+}*/
+.quick-match .matches
+{
+border-top:1px dotted #ccc;
+}
+ .quick-match .matches h3.title {
+    background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat scroll 0 50% / 31px 31px #fff;
+ font-size: 18px;
+    margin: 0 auto;
+    padding-left: 40px;
+    position: relative;
+    text-transform: uppercase;
+    top: -20px;
+    width: 168px;
+}
+.quick-match ul.products li.product
+{
+margin-left:0;
+}	 
+	 
+	 .quick-match .ep-tabs-content
+	 {
+	 display:none;
+	 }
+
+	.quick-match .ep_nav{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat;
+		background-position: 0 0;
+		background-size: 60px 60px;
+		height: 70px;
+		padding-left: 60px;
+		padding-top: 3px;
+	}
+	.quick-match .title_nav{
+		border-bottom: 2px dotted #c1c2c3;
+		 padding-bottom: 5px;
+		  padding-right: 60px;
+		text-align: center;
+	}
+	.quick-match .title_nav ul li{
+		display:inline;
+		list-style-type:none;
+	}
+	.quick-match .title_nav ul{
+		margin:0;
+		padding:0;
+	}
+	.quick-match .title_nav ul li a{
+		text-decoration: none;
+		font-size: 18px;
+		padding: 0 14px;
+	}
+	 .quick-match .bold{
+		font-weight:bold;
+		color:#E76CAD;
+	 }
+	 .quick-match .hair-type{
+		text-transform: uppercase;
+		 font-family: avenirLT45Book;
+	 }
+	 .quick-match #panel-content .panel ul li{
+	 float: none !important;
+	 display: inline-block;
+	 }
+	.quick-match #panel-content .panel {
+		 float: none !important;
+		margin: 0 auto;
+		width: inherit;
+	}
+	.quick-match a.active {
+		opacity: 0.6;
+	}
+	.quick-match .d-hair-wear li,
+	.quick-match .d-hair-des li{
+		display: block !important;
+		float: none !important;
+	}
+	.quick-match #panel-content .panel ul li a{
+	 text-decoration:none;
+	 text-transform: uppercase;
+	 font-size:16px;
+	 }
+	 
+	.quick-match #panel-content .panel ul li {
+		margin: 0 6px 32px 0;
+	}
+	
+	.quick-match #panel-content .panel ul li img {
+		border: none !important;
+	}
+	
+		 
+	.quick-match .edit-title
+    {
+				    background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat scroll 9px 50% / 31px 31px #fff;
+					border: medium none;
+    font-family: avenirlt45book;
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 5px 0 5px 50px;
+    position: relative;
+    text-transform: uppercase;
+    top: -27px;
+    width: 134px;
+						
+              }
+/************Quick Match Page End**************/
+/************Photo Upload Page**************/
+			.photo-upload .photo{
+			overflow: hidden;
+			}
+			.photo-upload .headlabel{
+				background:#000;
+			    color: #fff;
+				padding: 5px 10px;
+				text-transform: uppercase;		
+				margin-bottom: 10px;	
+			
+			}
+			.photo-upload input[type="text"],
+			.photo-upload textarea
+			{
+				width: 100% !important;
+				height:200px;
+				color:#333;
+			}
+			.photo-upload textarea.video-textarea{
+				height:	100px;
+			}    
+			.photo-upload input[type="text"]{
+				height: 40px;
+			}
+			.photo-upload ul.hair-cat{
+				list-style:none;
+			    border: 1px solid #999;
+				margin: 0;
+				padding: 10px;
+			}
+			.photo-upload ul.hair-cat li{
+				margin-bottom: 0 !important;
+			}
+			.photo-upload .widget-heading h3.heading{
+		  	  font-family: avenirlt45book;
+				margin-top:40px;
+				background:#000;
+				color: #fff;
+				font-size: 16px;
+				margin: 0 !important;
+				padding: 0 20px;
+				border-bottom: none !important;
+			}
+			.photo-upload .widget-heading{			
+				float:left;
+			}
+			.photo-upload .preview-thumb{
+				height:80px;
+				width:90px;				
+			}
+			.photo-upload .preview-thumb img{
+			max-height:100%;
+			max-width:100%;
+			}
+			.photo-upload .button{
+				font-size: 14px !important;
+				font-weight: normal !important;
+				padding: 5px 10px;
+				
+			}
+			.photo-upload ul.hair-cat li input
+			{
+				margin-right:10px;
+				margin-top: 0;
+			}
+			.photo-upload ul{
+				list-style:none;
+				margin:0 !important;
+			}
+			.photo-upload ul li{
+				margin-bottom: 30px;
+			}
+			
+			.photo-upload .ctr_search
+			{
+			width:95.8%;
+			}
+		
+			.photo-upload #popup-validation-outer{
+				background-color: rgba(0, 0, 0, 0.2);
+				display: none;
+				height: 100%;
+				left: 0;
+				position: fixed;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				
+			}
+			.photo-upload #popup-validation{
+				background: none repeat scroll 0 0 #f6f7f8;
+				border: 7px solid #222;
+				box-shadow: 0 0 24px #000000;
+				color: #555555;
+				left: 50%;
+				margin-left: -145px;
+				margin-top: -100px;
+				padding: 15px 20px;
+				position: absolute;
+				text-align: center;
+				top: 50%;
+				width: 250px;
+				
+			}
+			.photo-upload #invalid-message
+			{
+			padding-bottom:20px;
+			}
+			.photo-upload #popup-validation p{
+				   color: #000;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+			}
+			.photo-upload #popup-validation a{
+				background: none repeat scroll 0 0 #d9197e;
+				border: 1px solid #d9197e;
+				border-radius: 3px;
+				color: #ffffff;
+				font-size: 11px;
+				font-weight: bold;
+				padding: 5px 27px;
+				text-transform: uppercase;
+				text-decoration: none;
+			}
+			.photo-upload .tagged-product-img img
+			{
+             float:left
+			}
+			.photo-upload .tagged-product-img .details
+			{
+             float:left;
+			 max-width:80%;
+			    
+			
+               font-size: 14px;
+			}
+			.photo-upload .tagged-product-img .details h3
+			{
+				 font-size: 14px;
+				line-height: 20px;
+				margin: 12px 0 0 5px;
+				text-transform: uppercase;
+				
+			}
+			.photo-upload .tagged-product-img .details p
+			{
+			margin:0 0 10px 5px;
+			}
+			.photo-upload .tagged-product-img .heart-button span
+			{
+			margin-left:4px;
+			}
+/************Photo Upload Page End**************/
+/************Mobile Profile Page**************/
+.mobile-profile{
+max-width:700px;
+margin: 0 auto;
+}
+.mobile-profile .details-left{
+float:left;
+width:32%;
+}
+.mobile-profile .details-left .profile-image{
+    height: 60px;
+    margin: 0 auto;
+    padding: 3%;
+    width: 60px;
+}
+.mobile-profile .details-left h4{
+ font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    text-transform: capitalize;
+	margin: 0;
+}
+.mobile-profile .details-right{
+float:left;
+width:65%;
+text-align:center;
+}
+.mobile-profile .details-right .profile-statistics ul{
+   margin:0;
+}
+.mobile-profile .details-right .profile-statistics ul li{
+   float: left;
+    list-style-type: none;
+	width:27%;
+}
+.mobile-profile .details-right .profile-statistics{
+width:100%;
+margin: 0 auto;
+}
+.mobile-profile .details-right .profile-statistics li h2{
+margin:0;
+font-size:20px;
+}
+.mobile-profile .details-right .profile-statistics li h4{
+font-size:20px;
+color:#999;
+text-transform: lowercase;
+}
+.mobile-profile .details-right .edit-profile-button {
+margin: 10px auto 0;
+    width: 100%;
+}
+.mobile-profile .details-right .edit-profile-button a{
+   background: none repeat scroll 0 0 #d9197e;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+   padding: 3% 14%;
+    text-decoration: none;
+}
+.mobile-profile .mobile-profile-menu{
+border-top: 2px solid #eee;
+padding:5px 0;
+text-align: center;
+}
+.mobile-profile .mobile-profile-menu ul{
+margin:0;
+}
+.mobile-profile .mobile-profile-menu ul li{
+list-style-type:none;
+float: left;
+width:24%;
+border-right: 1px solid #ccc;
+}
+
+.mobile-profile .mobile-profile-menu ul li a{
+
+}
+.mobile-profile .mobile-profile-menu ul li a img{
+
+}
+.mobile-profile .hl-tabs-content
+{
+display:none;
+}
+/************Mobile Profile Page End**************/
+/************Edit Profile Page**************/
+	 .edit-profile .ep-tabs-content
+	 {
+	 display:none;
+	 }
+
+	.edit-profile .ep_nav{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat;
+		background-position: 0 0;
+		background-size: 60px 60px;
+		height: 70px;
+		padding-left: 60px;
+		padding-top: 3px;
+	}
+	.edit-profile .title_nav{
+		border-bottom: 2px dotted #c1c2c3;
+		 padding-bottom: 5px;
+		  padding-right: 60px;
+		text-align: center;
+	}
+	.edit-profile .title_nav ul li{
+		display:inline;
+		list-style-type:none;
+	}
+	.edit-profile .title_nav ul{
+		margin:0;
+		padding:0;
+	}
+	.edit-profile .title_nav ul li a{
+		text-decoration: none;
+		font-size: 18px;
+		padding: 0 14px;
+	}
+	 .edit-profile .bold{
+		font-weight:bold;
+		color:#E76CAD;
+	 }
+	 .edit-profile .hair-type{
+		text-transform: uppercase;
+		 font-family: avenirLT45Book;
+	 }
+	 .edit-profile #panel-content .panel ul li{
+	 float: none !important;
+	 display: inline-block;
+	 }
+	.edit-profile  #panel-content .panel {
+		 float: none !important;
+		margin: 0 auto;
+		width: inherit;
+	}
+	.edit-profile a.active {
+		opacity: 0.6;
+	}
+	.edit-profile .d-hair-wear li,
+	.edit-profile .d-hair-des li{
+		display: block !important;
+		float: none !important;
+	}
+	.edit-profile #panel-content .panel ul li a{
+	 text-decoration:none;
+	 text-transform: uppercase;
+	 font-size:16px;
+	 }
+	 
+	.edit-profile #panel-content .panel ul li {
+		margin: 0 6px 32px 0;
+	}
+	
+	.edit-profile #panel-content .panel ul li img {
+		border: none !important;
+	}
+	
+		 
+	.edit-profile .edit-title
+    {
+				    background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat scroll 9px 50% / 31px 31px #fff;
+					border: medium none;
+    font-family: avenirlt45book;
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 5px 0 5px 50px;
+    position: relative;
+    text-transform: uppercase;
+    top: -27px;
+    width: 134px;
+						
+              }
+/************Edit Profile Page End**************/
+
+/************Associates Page**************/
+.associates-page .ep-tabs-content{
+		display:none;
+	 }
+	.associates-page #panel-content{
+		min-height: 450px;
+	}
+	.associates-page .ep_nav{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat;
+		background-position: 0 0;
+		background-size: 60px 60px;
+		height: 70px;
+		padding-left: 60px;
+		padding-top: 3px;
+	}
+	.associates-page .title_nav{
+		border-bottom: 2px dotted #c1c2c3;
+		 padding-bottom: 5px;
+		  padding-right: 60px;
+		text-align: center;
+	}
+	.associates-page .title_nav ul li{
+		display:inline;
+		list-style-type:none;
+	}
+	.associates-page .title_nav ul{
+		margin:0;
+		padding:0;
+	}
+	.associates-page .title_nav ul li a{
+		text-decoration: none;
+		font-size: 18px;
+		padding: 0 14px;    
+		color: #777;
+	}
+	 .associates-page .bold{
+		font-weight:bold;
+		color:#000 !important;
+	 }
+
+	.associates-page a.active {
+		opacity: 0.6;
+	}
+	.associates-page .ds-brand-list ul{
+		list-style:none;
+		margin:0;
+		padding:0;
+	}	
+	.associates-page .ds-brand-list ul li a{
+		text-decoration:none;
+	}	
+	.associates-page .row-fluid .margin-left-none ul.products li.first{
+	clear:none !important;
+	}
+	.associates-page .left-bar-title{
+		font-size: 20px;
+		margin-bottom:15px;
+	}
+	.associates-page  .tab-title {
+		border-top: 1px dotted #ccc;
+		margin-top: 15px;
+	}
+	.associates-page  .tab-title h3.title{
+		margin: 0 auto;
+		padding-left: 40px;
+		position: relative;
+		top: -20px;
+	}
+	.associates-page .affiliate-links .tab-title h3.title{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/icon_mobile.png") no-repeat scroll 0 50% / 31px 31px #fff;
+		width: 140px;
+	}
+	.associates-page .performance .tab-title h3.title{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/icon_mobile.png") no-repeat scroll 0 50% / 31px 31px #fff;
+		width: 210px;
+	}
+	.associates-page .marketing-materials .tab-title h3.title{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/icon_mobile.png") no-repeat scroll 0 50% / 31px 31px #fff;
+		width: 280px;
+	}
+	.associates-page .settings .tab-title h3.title{
+		background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/icon_mobile.png") no-repeat scroll 0 50% / 31px 31px #fff;
+		width: 200px;
+	}
+	.associates-page .ds-brand-list,
+	.associates-page .marketing-materials,
+	.associates-page .affiliate-links,
+	.associates-page .performance,
+	.associates-page .settings{
+		margin-left: 55px;
+	}
+	.associates-page .input-password,
+	.associates-page .input-email{
+		width:90%;
+	}
+	.associates-page .associate-city,
+	.associates-page .associate-state{
+		width:43.7%;
+	}
+	.associates-page .marketing-materials ul{
+		margin:0;
+	}
+	.associates-page .marketing-material-item{
+		margin-bottom: 50px;
+	}
+	.associates-page .account-settings-form{
+		margin-bottom:30px;
+	}
+	.associates-page .account-settings-form .save-change{
+		background: none repeat scroll 0 0 #d9197e;
+		border: medium none;
+		border-radius: 4px;
+		color: #fff;
+		padding: 5px 20px;
+	}
+	.associates-page .account-settings-form form{
+		margin: 0 auto;
+		width: 500px;
+	}
+	.associates-page .marketing-material-item ul li{
+		position:relative;
+	}
+	.associates-page .marketing-material-item ul li:hover .hldownload_mask{
+		opacity:1;
+	}
+	.associates-page .marketing-material-item ul li a img.dl-icon{
+		position:absolute;
+		top:50%;
+		left:50%;
+		display:block;
+		width:24px;
+		z-index: 9999;
+		margin-left: -12px;
+		margin-top: -12px;
+	}
+	.associates-page .hldownload_mask {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.65);
+		bottom: 0;
+		display: block;
+		left: 0;
+		opacity: 0;
+		position: absolute;
+		right: 0;
+		top: 0;
+		z-index: 999;
+	}
+/************Associates Page End**************/	
+
+/************Shop/Products Page**************/	
+.shop .cycloneslider-pager{
+display:none;
+}
+.shop .photo_title,
+.shop .user_first_name{
+margin-bottom:5px;
+}
+
+.shop .tranding_live .heart-button{
+display:none;
+}
+.shop .tranding_live .first{
+margin-left: 0 !important;
+}
+.shop .tranding_live ul{
+margin:0;
+list-style:none;
+}
+.shop .right_sidebar{
+border-left: 2px solid #d3d4d5;
+padding-left: 25px;
+
+}
+.shop .right_sidebar .title{
+border-top: 1px dotted #cccccc;
+    margin-top: 15px;
+}
+
+.shop .right_sidebar .title h4{
+	 background: none repeat scroll 0 0 #ffffff;
+    color: #000000;
+    font-family: AvenirLT45Book,sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    padding-top: 5px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: -15px;
+    width: 100px;
+}
+.shop .right_sidebar ul{
+margin:0;
+padding:0;
+}
+.shop .right_sidebar ul li{
+list-style-type: none;
+position:relative;
+text-align:center;
+margin-bottom: 60px;
+}
+.shop .right_sidebar ul li .text_path{
+position:absolute;
+bottom: -35px;
+background: #fff;
+left: 50%; 
+padding-top: 5px;
+width:190px;
+margin-left:-95px;
+}
+.shop .right_sidebar ul li .text_path h3{
+padding:0 10px;
+  font-family: avenirLT45Book;
+    font-size: 17px;
+margin:0;
+line-height: 20px;
+}
+.shop .editors_picks{
+	border-top: 1px dotted #cccccc;
+    margin-top: 15px;
+}
+.shop .editors_picks h4{
+	 background: none repeat scroll 0 0 #ffffff;
+    color: #000000;
+    font-family: AvenirLT45Book,sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    padding-top: 5px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: -15px;
+    width: 240px;
+}
+.shop .more_stories{
+border-top: 1px dotted #cccccc;
+    margin-top: 50px;
+}
+.shop .more_stories h4{
+	background: none repeat scroll 0 0 #ffffff;
+    color: #000000;
+    font-family: AvenirLT45Book,sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    padding-top: 5px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: -15px;
+    width: 285px;
+}
+.shop .more_stories ul li{
+list-style-type: none;
+}
+.shop .more_stories ul li p{
+ font-size: 26px;
+    line-height: 34px;
+    margin-top: 50px;
+}
+.shop .more_stories ul li p span{
+font-weight:bold;
+}
+.shop .featured_stories{
+border-top: 1px dotted #cccccc;
+    margin-top: 50px;
+}
+.shop .featured_stories h2{
+  background: none repeat scroll 0 0 #fff;
+    color: #000000;
+    font-family: AvenirLT45Book,sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: -20px;
+    width: 230px;
+   
+}
+.shop .featured_stories .feed.center-thumb .owner-thumb
+{
+text-align:center;					
+}
+
+
+.shop .featured_stories .story h3{
+font-size: 15px;
+    line-height: 17px;
+	padding-left:5px;
+}
+.shop .featured_stories .story p{
+font-size: 11px;
+    line-height: 11px;
+	padding-left:5px;
+}
+.shop .tranding_live{
+border-top: 1px dotted #cccccc;
+    margin-top: 50px;
+}
+.shop .tranding_live h2{
+   background: url("http://myhypehair.com/123456789/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat #ffffff;
+   background-size: 30px 30px;
+   background-position: 10px 50%;
+    color: #000000;
+    font-family: AvenirLT45Book,sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    padding-left: 35px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: -20px;
+    width: 150px;
+}
+
+@media (max-width: 700px){   
+
+}
+/************Shop/Products Page End**************/	
+/************Salon Page**************/	
+
+.salon .add-story-button
+{
+padding: 5px 15px !important;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: -12px;
+    width: 145px;
+}
+.salon .add-story-button2
+{
+
+margin-bottom: 20px;
+   padding: 5px 15px !important;
+    text-align: center;
+    width: 148px;
+ 
+}
+.salon .add-story-button3
+{
+
+margin: 16px 0 0;
+    padding: 5px 15px;
+    text-align: center;
+    width: 148px;
+ 
+}
+.salon .button a
+{
+color:#fff;
+text-decoration:none;
+}
+
+.salon .brand-info h1.brand-info-title
+{
+font-size:22px;
+}
+
+.salon .brand-info .info-left 
+{font-family:garamond;
+font-size:14px;
+}
+.salon .salon h3.title
+{
+font-size:19px;
+}
+.salon .claim-text
+{
+margin-top:28px;
+}
+.salon .claim-text a
+{
+ text-decoration:none;
+ color:#333;
+}
+
+.salon h1,.salon h3
+{
+line-height:24px;
+}
+
+.brand-info-image iframe
+{
+max-width:100%;
+}
+.salon .mobile-display a.right-arrow
+{
+margin-top: -2px;
+}
+/************Salon Page End**************/	
+/************Salons list Page**************/	
+  .salons 
+	{
+	font-family: garamond;
+	}
+	  .salons p
+	  {
+	  line-height:14px;
+	  }
+
+	   .salons .left-bar ul li
+	   {
+	   
+
+    line-height: 24px;
+	   }
+	      .salons .left-bar ul li a
+	   {
+	   
+	   font-size: 12px;
+       color:#222;
+	   }
+	    .salons .left-bar ul li a:hover
+		{
+		background:none;
+		}
+  .salons .salons-title{
+	font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+    .salons .salons-title a{
+	text-decoration:none;
+	color:#000;
+  }
+  .salons h3.title-1 {
+    border-bottom: 1px dotted #ccc;
+    text-align: center;
+}
+.salons h3.title-1 span {
+    background: none repeat scroll 0 0 #fff;
+    display: block;
+    margin-bottom: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110px;
+}
+.salons h3.title {
+    font-family: Garamond;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+.salons .left-bar ul{
+    list-style:none;
+	margin:10px 0;
+}
+.salons .left-bar ul li a:hover{
+    text-decoration:none;
+}
+.salons .row-fluid .first{
+margin-left:0;
+clear:both;
+}
+
+.salons .left-bar h3.salons-title
+{
+margin-top:0;
+}
+	 .salons .left-bar  #accordion ul
+	 {
+	 height:auto !important;
+	 
+	 }
+	  .salons .left-bar  #accordion h3
+	  {
+	   font-size: 14px;
+    line-height: 23px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+	cursor:pointer;
+	  }
+	   .salons .left-bar
+	   {
+	   margin-bottom:20px;
+	   }
+	 .salons .left-bar  #accordion h3.ui-accordion-header-active
+	 {
+	 font-weight:bold;
+	 }
+/************Salons list Page End**************/
+/************My Match Page**************/
+.my-match-template .woocommerce-message
+{
+text-transform: capitalize;
+position:relative;
+border-top: 3px solid #5c942e;
+
+}
+.my-match-template .woocommerce-message:before {
+    background-color: #5c942e;
+}
+				.my-match-template .match_nav{
+					background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat;
+					background-position: 0 0;
+					background-size: 80px 80px;
+					padding: 0 80px;
+					min-height:85px;
+				}
+				.my-match-template .title_nav{
+					border-bottom: 1px dotted #d4d5d6;
+					 padding-bottom: 5px;
+				}
+				.my-match-template .products .product{
+					min-height:335px;
+				}
+				.my-match-template .title_nav ul li{
+					display:inline;
+					list-style-type:none;
+				}
+				.my-match-template .title_nav ul li a{
+					text-decoration: none;
+					font-size: 20px;
+					padding: 0 10px;
+				}
+				.my-match-template .product_nav ul li a{
+					text-decoration: none;
+					font-size: 14px;
+					padding: 0 10px;
+				}
+				.my-match-template .product_nav ul li{
+					display:inline;
+					list-style-type:none;
+				}
+				.product_nav{
+					margin-top:5px;
+				}
+				.my-match-template .m_active a{
+				color:#D9197E;
+				}
+				
+				.my-match-template .mobile-display.matches-top
+				{
+				border-top:1px dotted #ccc;
+				}
+				.my-match-template .mobile-display.matches-top .title
+				{
+				    background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/TrendingIcon.png") no-repeat scroll 9px 50% / 31px 31px #fff;
+						margin: 0 auto;
+						padding:5px 0 5px 50px;
+						position: relative;
+						top: -18px;
+						width: 134px;
+						border:none;
+						
+              }
+				
+				.my-match-template .matches-top .ul-cats li
+				{
+				list-style-type:none;
+				line-height:30px;
+				}
+					.my-match-template .matches-top .ul-cats li a
+					{
+					text-decoration:none;
+					}
+/************My Match Page End**************/
+/********************menu.php***********************/
+.explore-button .drop
+ {
+ display:none;
+ }
+.mobile-menu-block
+{
+display:none;
+}
+
+.explore-button ul li:hover .drop
+{
+display:block !important;
+}
+
+
+.brand-sub-menus-title{
+	margin-left: 20px !important;
+    text-align: left !important;
+}
+.hs-dropdown{
+padding: 0 !important;
+
+}
+
+.custom-main-menu-items .span4{
+width: 31% !important;
+}
+
+#header .header-menus .explore-button ul.custom-main-menu-items{
+left: 0 !important;
+}
+#my-match-login-popup-outer {
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+#my-match-login-popup-inner {
+    background: none repeat scroll 0 0 #f6f7f8;
+    border: 7px solid #222;
+    box-shadow: 0 0 24px #000000;
+    color: #555555;
+    left: 50%;
+    margin-left: -440px;
+    margin-top: -225px;
+    padding: 30px 40px 10px;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    width: 900px;
+}
+a#close-my-match-login{
+    background: url("../../assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 25px;
+    position: absolute;
+    right: -14px;
+    text-indent: 600px;
+    top: -14px;
+    width: 25px;
+}
+#my-match-login-popup-inner a {
+    color: #d9197e;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.my-match-login-form h2{
+text-transform: 
+uppercase; 
+font-size:50px; 
+line-height: 48px;
+letter-spacing: 4px;
+margin:0;
+}
+.my-match-login-form h2 span{
+color:#E6218D; 
+font-size: 36px;
+}
+.my-match-login-form h3{
+ font-size:24px;
+ border-bottom: 2px dotted #000;
+ letter-spacing: 1px;
+ margin:0;
+}
+.my-match-login-form h3 span{
+color:#E6218D;
+}
+/**********************menu.php end**************************/
+/**********************brand-list.php**************************/
+   .brand-list #id-4 {
+    width: 40px;
+}
+   .brand-list .alpha-title{
+  text-transform: uppercase;
+  }
+  .brand-list .span4{
+  margin-left:0;
+  margin-right:0;
+  }
+  .brand-list ul.row-fluid{
+  margin:0;
+  border-bottom: 1px dotted #d4d5d6;
+  }
+
+  
+  
+  .photo.feed .img .hs-video-popup{
+position: absolute;
+top: 50%;
+right: 50%;
+margin-top:-24px;
+margin-right:-24px;
+
+}
+
+#hair_story_video_popup_outer{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+#hair_story_video_popup_inner{
+    background: none repeat scroll 0 0 #f6f7f8;
+    border: 3px solid #222;
+    box-shadow: 0 0 24px #000000;
+    color: #555555;
+    left: 50%;
+    margin-left: -350px;
+    margin-top: -200px;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    width: 700px;
+	
+}
+
+#hair_story_video_popup_inner a#close_hair_story_video_popup {
+    background: url("../../assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 25px;
+    position: absolute;
+    right: -14px;
+    text-indent: 600px;
+    top: -14px;
+    width: 25px;
+}
+
+#main .product-post .add-hstory-button
+{
+background: url("../../assets/img/icons/youtube_white.png") no-repeat scroll 0 -5px / 34px 36px #d9197e !important;
+padding-left:36px;
+float:left;
+}
+
+#main .product-post .question-mark-product,
+#main .product-post .question-mark
+{
+float: right;
+    margin: 2px 0 0 3px;
+}
+
+#main .product-post .question-mark-product img,
+#main .product-post .question-mark img
+{
+width:18px;
+}
+
+
+
+#single-product-page-popup-outer{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+	height:100%;
+    z-index: 99999;
+}
+#single-product-page-popup-inner{
+    background: none repeat scroll 0 0 #f6f7f8;
+    border: 3px solid #222;
+    box-shadow: 0 0 24px #000000;
+    color: #555555;
+    left: 50%;
+    margin-left: -310px;
+    margin-top: -250px;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    width: 620px;
+	min-height: 300px;
+}
+
+#single-product-page-popup-inner a#close-single-product-page-popup {
+    background: url("../../assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 25px;
+    position: absolute;
+    right: -20px;
+    text-indent: 600px;
+    top: -20px;
+    width: 25px;
+}
+
+#guided-tour-popup-outer{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+	height:100%;
+    z-index: 99999;
+}
+#menu-profile-page-popup-outer{
+    background-color: rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+	height:100%;
+    z-index: 99999;
+}
+#menu-profile-page-popup-inner{
+    background: none repeat scroll 0 0 #f6f7f8;
+    border: 3px solid #222;
+    box-shadow: 0 0 24px #000000;
+    color: #555555;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -240px;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    width: 600px;
+	min-height: 300px;
+}
+#guided-tour-popup-inner{
+    background: none repeat scroll 0 0 #f6f7f8;
+    border: 3px solid #222;
+    box-shadow: 0 0 24px #000000;
+    color: #555555;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -245px;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    width: 600px;
+	min-height: 300px;
+}
+
+#guided-tour-popup-inner a#close-guided-tour-popup{
+background: url("../../assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 25px;
+    position: absolute;
+    right: -20px;
+    text-indent: 600px;
+    top: -20px;
+    width: 25px;
+}
+#menu-profile-page-popup-inner a#close-menu-profile-page-popup {
+    background: url("../../assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 25px;
+    position: absolute;
+    right: -20px;
+    text-indent: 600px;
+    top: -20px;
+    width: 25px;
+}
+#guided-tour-popup-inner  .cycloneslider-template-standard .cycloneslider-slides, 
+#menu-profile-page-popup-inner  .cycloneslider-template-standard .cycloneslider-slides, 
+#single-product-page-popup-inner .cycloneslider-template-standard .cycloneslider-slides{
+min-height:500px !important;
+}
+.customer-profile .ac_setting .widget.widget-tabs > .mobile-display.widget-head ul li a.glyphicons {
+    padding: 0 10px !important;
+}
+.login-page{
+min-height:600px !important;
+}
+#guided-tour-popup-outer .cycloneslider-pager,
+#menu-profile-page-popup-outer .cycloneslider-pager,
+#single-product-page-popup-outer .cycloneslider-pager {
+
+display:block;
+}
+#menu-profile-page-popup-outer .how-to-add-hs{
+    bottom: 0;
+    font-size: 10px;
+    left: 0;
+    margin-bottom: 3px;
+    padding-left: 20px;
+    position: absolute;
+}
+#single-product-page-popup-outer .how-to-add-hs{
+    bottom: 0;
+    font-size: 10px;
+    left: 0;
+    margin-bottom: 3px;
+    padding-left: 20px;
+    position: absolute;
+}
+
+#main.profile{
+						padding-top:44px !important;
+					}
+					#main.profile .profile-details{
+						margin-top:20px;
+					}
+					#main.profile .container{
+					}  
+					#main.profile .menu_details{
+						position:relative;
+						border-bottom:1px dashed #666;
+						margin-bottom: 20px;
+					}
+					#main.profile .menu_details .profile-image{
+						position:absolute;
+						top:-90px;
+						width:110px;
+						left:-24px;
+						height:110px;
+					}
+					#main.profile .menu_details .span6{
+						margin-left:0;
+					}
+					#main.profile .menu_details .tab_menu ul{
+						margin:0;
+						padding:0;
+						list-style:none;
+					}
+					#main.profile .menu_details .tab_menu{
+						margin-top:5px;
+						margin-left:25px;
+						float:left;
+					}
+					#main.profile .menu_details .tab_menu ul li{
+						display:inline;
+					}
+					#main.profile .menu_details .tab_menu ul li a{
+						text-decoration:none;
+						padding:10px 10px;
+						color:#666;
+						font-size:18px;
+					}
+					#main.profile .menu_details .profile-name{
+						margin-left:120px;
+						float:left;
+					}
+					#main.profile .menu_details .profile-name h4{
+						text-transform:capitalize;
+					}
+					#main.profile .menu_secondery{
+						margin-bottom:40px;
+					}
+					#main.profile .menu_secondery ul{
+						margin:0;
+						padding:0;
+						list-style:none;
+					}
+					#main.profile .menu_secondery ul li{
+						display:inline;
+					}
+					#main.profile .menu_secondery ul li a{
+						text-decoration:none;
+						padding:10px 10px;
+						color:#666;
+						font-size:18px;
+					}
+					#main.profile .details-right table{
+						border:2px solid #b5b6b7;
+						font-size: 14px;
+					}
+					#main.profile .details-right table tr{
+						border-bottom:2px solid #b5b6b7;
+					}
+					#main.profile .details-right table tr td{
+						padding:5px;
+						color:#999;
+					}
+					#main.profile .details-right table tr td span.location{
+						background:url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/profile-page-icons/location.png") no-repeat scroll 10% 50%;
+						padding-left:30px;
+					}
+					#main.profile .details-right table tr td span.rss{
+						background:url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/profile-page-icons/rss.png") 	no-repeat scroll 10% 50%;
+						padding-left:30px;
+					}
+					#main.profile .details-right table tr td h3{
+						color:#666;
+						line-height:20px;
+						margin:10px 0;
+						text-align:center;
+					}
+					#main.profile .details-right table tr td .social-icons{
+						text-align:center;
+					}
+					#main.profile .details-right table tr td .social-icons a{
+						padding:0 5px;
+					}
+					#main.profile .span3.details-right{
+						margin-left:0;
+					}
+					#main.profile .inspired-button{
+						margin:20px 0;
+						text-align:center;
+					}
+					#main.profile .inspired-button a{					
+						/*border-radius*/
+						-webkit-border-radius:3px;
+						-moz-border-radius:3px;
+						border-radius:3px;
+						color:#ffffff;
+						cursor:pointer;
+						font-weight:bold;
+						padding: 5px 14px;
+						font-size: 13px;
+						text-decoration:none;
+						text-transform:uppercase;
+					}
+					#main.profile .inspired-button a.heart{
+						/*background:url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/profile-page-icons/heart_user.png") no-repeat scroll 10% 50% #d9197e;*/
+						background:url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/heart_red.png") no-repeat scroll 10% 50% #d9197e;
+						padding:5px 40px;
+						cursor:pointer;
+						background-size: 23px 23px;
+					}
+					#main.profile table tr td .first-name{
+						text-transform:capitalize;
+						font-size: 20px;
+					}
+					#main.profile .active{
+						color:#D9197E !important;
+					}
+					#main.profile .profile-details .profile_bio{
+						height:auto;
+					}
+					#main.profile .customer-profile .profile-details .details-right p{
+						line-height:15px;
+					}
+					#main.profile .follow-button{
+						float:none;
+					}
+					#main.profile .banner_top{
+						position:relative;
+						max-height: 250px;
+						overflow:hidden;
+					}
+					#main.profile .banner_top .edit_cover{
+						position:absolute;
+						right: 10px;
+						bottom:10px;
+					}
+					#main.profile .banner_top .edit_cover a{
+						display:none;
+					}					
+					#main.profile .banner_top:hover .edit_cover a{
+						display:block;
+						background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/edit_icon.png") no-repeat scroll 4% 50% #ddd;
+						padding: 5px 30px;
+						color: #000;
+						background-size: 20px 20px;
+					}
+					#main.profile .edit_cover_popup{
+						width: 100%;
+					}
+					
+					#main.profile #edit_cover_popup_outer{					
+						display:none;
+					}
+					#main.profile #edit_cover_popup_outer .hl_popup_inner{					
+						top: 25%;
+					}
+					#main.profile #edit_pro_pic_popup_outer{
+						display:none;
+					}
+					#main.profile .profile{
+						position:relative;
+					}
+					
+					#main.profile .edit_pro{
+						position:relative;
+					}
+					#main.profile .edit_pro_pic{
+						position:absolute;
+						right: 25px;
+						bottom:10px;
+					}
+					#main.profile .edit_pro_pic a{
+						display:none;
+					}
+					#main.profile .edit_pro:hover .edit_pro_pic a{
+						display:block;
+						background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/edit_icon.png") no-repeat scroll 2% 50% #ddd;
+						padding: 2px 20px;
+						color: #000;
+						background-size: 10px 10px;
+					}
+					#main.profile .form-actions{
+						padding-left:0;
+					}
+					#main.profile .btn-primary{
+						padding:5px 7px;
+					}
+					#main.profile a#close-edit-cover {
+						background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+						display: block;
+						height: 25px;
+						position: absolute;
+						right: -14px;
+						text-indent: 600px;
+						top: -14px;
+						width: 25px;
+					}
+					#main.profile a#close-edit-proimg {
+						background: url("http://hairlibrary.com/wp-content/themes/456shop/assets/img/icons/close.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+						display: block;
+						height: 25px;
+						position: absolute;
+						right: -14px;
+						text-indent: 600px;
+						top: -14px;
+						width: 25px;
+					}
+					#main.profile .menu_secondery{
+					padding-right: 51px;
+                       text-align: right;
+					}
+					p.no-product
+					{
+					text-align:center;
+					margin:80px 0;
+					font-size:16px !important;
+					}
+					#main.profile .photo.feed{
+					text-align:left;
+					}
+					
+					
+.hs-dropdown.drop.brand-subs .question-mark {
+padding: 0 !important;
+;margin-right: 10px;
+}
+.trending-item .product-info .question-mark {
+margin: 0 0 0 5px;
+bottom:5px;
+position: absolute;
+}
+.add_story_profile .question-mark {
+background:none !important;
+opacity:1 !important;
+margin: 6px 0 0 3px !important;
+padding: 0 !important;
+float: right !important;
+}
+.woocommerce ul.products li.product a:hover img, 
+.woocommerce-page ul.products li.product a:hover img{
+box-shadow:none !important;
+}
+.add_story_home .button{
+font-weight:normal;opacity: 1;
+}
+.mobile-menu-block ul li a.button{
+color: #fff !important;
+}
+.search-result .heading .title{
+ line-height: 20px;
+}
+.woocommerce-message:before{
+content:"+" !important;
+}
+.woocommerce-message a{
+text-decoration:none;
+}
+.mobile-menu-block ul li a, .mobile-menu-block-right ul li a{
+color: #6d6e70 !important;
+}
+.single-photo span.by{
+ margin-top: 16px !important;
+}
+.single-photo .right-section .phono-owner ul li{
+list-style-type:none;
+display: inline-flex;
+}
+.single-photo  ul li span.by,
+.single-photo  ul li .owner-thumb{
+float:none !important;
+}
+
+.single-photo  ul li .user-info{
+margin-left: 5px !important;
+}
+.single-photo .right-section .phono-owner{
+
+}
+.cycloneslider-template-standard .cycloneslider-pager span.cycle-pager-active{
+background: #333 !important;
+}
+.cycloneslider-template-standard .cycloneslider-pager span{
+background: #ccc !important;
+}
+.heart-button a.like-button{
+    background: url("../img//new_heart.png") no-repeat scroll 0 0 / 100% 100% rgba(0, 0, 0, 0) !important;
+	padding:3px 14px !important;
+}
+.single-product .product-content .heart-button a.like-button{
+padding:4px 14px !important
+}
+.menu-mobile-right-menu .menu-item-4479{
+color:#fff;
+}
+.collections-title{
+text-align:center;
+}
+.collections-title h2{
+   border-bottom: 2px dotted #000;
+    display: inline-block;
+    padding: 0 30px;
+	 font-size: 22px;
+    letter-spacing: 3px;
+}
+.collections-banner img{
+width:100%;
+}
+.collections .collection{
+border:1px solid #ddd;
+margin-bottom:20px;
+ min-height: 300px;
+}
+.collections {
+  margin: 30px 20px;
+}
+.collections .collection h3{
+   font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding-left: 10px;
+}
+.collections .collection h3 a{
+   text-decoration:none;
+}
+.collections .collection img{
+   width:100%;
+}
+.collections .collection  .c-description p{
+ font-size: 11px;
+    line-height: 15px;
+    padding-left: 10px;
+}
+.collections ul{
+margin:0;
+}
+.lc-count{
+text-align:right;
+}
+.lc-count ul{
+display:inline-flex;
+margin:0;
+padding:0;
+}
+.lc-count ul li{
+  margin: 0 7px 0 0;
+list-style-type:none;
+}
+.lc-count ul li p{
+font-size: 10px;
+}
+.first{
+margin-left:0 !important;
+}
+.guided-tour a{
+     color: #d9197e !important;
+}
+.single_add_to_cart_button{
+background:#D9197E !important;
+
+}
+
+.banner-salon.desktop-display{min-height:560px;background:#f2f3f4;}

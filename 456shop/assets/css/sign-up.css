@@ -1,0 +1,356 @@
+.sign-up .user-register{
+	padding:0;
+	width:auto;
+}
+.sign-up .user-register .logo{
+	text-align:center;
+	background:#000;
+	min-height:80px;
+}
+.sign-up .user-register .logo img{
+	margin: 0 0 0px;
+}
+
+.user-register .form-des
+{
+text-align:center;
+clear:both;
+}
+.sign-up .box-content {
+	box-shadow:none;
+	padding:0;
+}
+.sign-up .container {
+	width:960px;
+	margin:0 auto;
+	padding:0;
+}
+.sign-up .user-register .panel-holder {
+	background:none;
+}
+.sign-up #panel-content .panel {
+	padding:0 13px;
+}
+.sign-up #panel-content .panel p{
+	text-align:center;
+}
+.sign-up #panel-content .question-images {
+	margin:0 auto;
+}
+.questions-nav {
+  /*  background: url('../img/q-all.png') no-repeat scroll center 8px #F8F8F9;*/
+	 background: url('../img/q-all.png') no-repeat scroll center 20px #000;
+    border-bottom: 1px solid #EDF0F1;
+    height: 54px;
+    padding-top: 20px;
+}
+.center-nav {
+    list-style: none outside none;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 1054px;
+}
+.questions-nav li {
+    background: url("../img/q-normal.png") no-repeat scroll center top rgba(0, 0, 0, 0);
+    height: 90px;
+    overflow: hidden;
+    padding-top: 15px;
+    width: 130px;
+	float:left;
+}
+.questions-nav li.current {
+    background-image: url("../img/q-current.png");
+}
+.questions-nav li.prevcurrent {
+    background-image: url("../img/q-precurrent.png");
+}
+ .center-nav a:hover {
+    color: #fff;
+}
+.center-nav .current a{
+color:#DF197E;
+}
+.questions-nav li a {
+    color: #ACACB9;
+    display: block;
+    height: 27px;
+    line-height: 27px;
+    overflow: hidden;
+    white-space: nowrap;
+	/*font-family: "Asap",Helvetica,Arial,sans-serif;*/
+	font-family:Garamond,serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+	text-transform: uppercase;
+	text-decoration:none;
+}
+.questions-nav li.prevcurrent a {
+    color: #fff;
+}
+.questions-nav li .question-answer-nav {
+    display: block;
+    font-size: 0.714286em;
+    height: 50px;
+    overflow: hidden;
+    text-transform: uppercase;
+    white-space: normal;
+}
+.sign-up #panel-content .panel p.hair-type
+{
+font-family:Garamond,serif;
+font-size:20px;
+color:#333 !important;
+}
+.user-register .form-des p{
+    font-family: Garamond,serif !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.user-register .form-des p.bigger{
+    font-size:19px;
+}
+.user-register .form-des p.small{
+    font-size:14px;
+}
+
+.sign-up #footer #social-media-bar
+{
+background:none;
+}
+
+.sign-up #panel-content .panel .reg-info
+{
+width:700px;
+
+}
+.sign-up #panel-content .panel .reg-info p.hair-type
+{
+margin-bottom:30px;
+text-align:left;
+}
+
+
+.sign-up .user-register #panel-content
+{
+padding-top:10px;
+}
+
+.sign-up .inner-holder
+{
+padding-top:0;
+padding-bottom:0;
+}
+
+
+.sign-up   #social-media-bar
+{
+padding:0;
+}
+
+.sign-up #panel-content .panel {
+
+  text-align:center;
+}
+
+.sign-up #footer
+{
+width:100%;
+}
+
+
+
+
+/******Registration Form Mobile************/
+
+
+.sign-up .user-register-mobile .panel-holder  .inner-holder{
+	margin:15px 0;
+}
+
+.sign-up .user-register-mobile{
+background: #E05599 !important;
+position:relative;
+min-height:650px;
+ min-width: 560px;
+}
+.sign-up .user-register-mobile .logo{
+	background: transparent !important;
+	min-height: 35px !important;
+	margin: 0 0 0 10px;
+}
+.sign-up .user-register-mobile .logo a img{
+	max-width:70px;
+}
+.sign-up .user-register-mobile .user-register-mobile-inner{
+width: 550px;
+margin:0 auto 40px;
+box-shadow: 17px 13px 40px #333;
+background: #fff !important;
+
+}
+
+.sign-up .user-register-mobile .logo-text{
+margin-top: 14px;
+    padding-left: 10px;
+}
+
+.sign-up .user-register-mobile .page-number{
+position:absolute;
+bottom:20px;
+left:20px;
+}
+.sign-up #panel-content-mb .question-images {
+	margin:0 auto;
+	width:510px;
+}
+.sign-up #panel-content-mb .question-images ul li{
+	float:left;
+	margin-left: 2%;
+	list-style-type: none;
+	width:23%;
+	height:145px;
+}
+.sign-up #panel-content-mb .panel {
+	position: relative;
+	float: left;
+	margin-right:50px;
+	height:100%;
+}
+.sign-up #panel-content-mb .panel .prev-button{
+    background-color: #d9197e;
+    border: 1px solid #e05599;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 4px 30px;
+    text-decoration: none;
+	position: absolute;
+	left: 150px;
+	bottom: 20px
+}
+.sign-up #panel-content-mb .panel .next-button{
+    background-color: #d9197e;
+    border: 1px solid #e05599;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 4px 30px;
+    text-decoration: none;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}
+
+.sign-up #panel-content-mb .panel p{
+	text-align:center;
+}
+
+.sign-up #panel-content-mb .panel .reg-info
+{
+width:700px;
+
+}
+.sign-up #panel-content-mb .panel .reg-info p.hair-type
+{
+margin-bottom:30px;
+text-align:left;
+}
+
+
+.sign-up #panel-content-mb
+{
+padding-top:10px;
+position:relative;
+}
+
+.sign-up #panel-content-mb .panel p.hair-type
+{
+font-family:Garamond,serif;
+font-size:20px;
+color:#333 !important;
+}
+.sign-up .user-register-mobile .panel-holder ul
+{
+margin:0;
+}
+
+.user-register-mobile span.tool-tip {
+    background: none repeat scroll 0 0 #fff;
+    border: 3px solid #999;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 3px #999;
+    display: none;
+    overflow: hidden;
+    padding: 10px;
+    position: absolute;
+    text-align: left;
+    top: -97px;
+    width: 450px;
+    z-index: 9999;
+}
+
+.user-register-mobile label.hc_texture:hover  span.tool-tip {
+   display:block;
+}
+.sign-up #panel-content-mb .panel
+{
+top:50px;
+}
+
+.user-register-mobile .panel ul li label {
+    cursor: pointer;
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px 0;
+    position: relative;
+	float:left;
+	width:110px;
+}
+.user-register-mobile .panel ul li 
+{
+float: left;
+    list-style-type: none;
+    margin: 3px 0;
+    width: 100%;
+}
+.user-register-mobile .panel ul li input[type="text"],
+.user-register-mobile .panel ul li input[type="password"]
+{
+height:26px;
+}
+.user-register-mobile .prev-button
+{
+margin-bottom:0;
+}
+
+.li-block li
+{
+ border: 2px solid #555;
+    height: 73px !important;
+    padding-top: 40px;
+    text-align: center;
+}
+.user-register .prev-button
+{
+background: none repeat scroll 0 0 #d9197e;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+	  font-family: Garamond,serif;
+	}
+	
+	.user-register
+	{
+	font-family: Garamond,serif !important;
+	}
